@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+  <style>
+      h1 {
+    text-align: center;
+}
+.force-scroll{
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+        </style> 
+</head> 
+<body>
+
+<div class="jumbotron text-center">
+    <h1>PC Part Polularity Tracking Graph
+  </h1>
+  <p>I wanted to see how the popularity of different CPUs and GPUs changed over time, so I scraped peoples' builds on pcpartpicker.com.</p> 
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+ 		<div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            CPU
+          </button>
+          <div class="dropdown-menu  force-scroll" aria-labelledby="dropdownMenuButton">
+            {% for part, underscore in tuple_list %}
+            <a class="dropdown-item" href= "/scrape/{{underscore}}" >{{part}}</a>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+
+    <div class="col-sm-12">
+            <!-- <h3> {{title}} </h3> -->
+        <canvas id="line_chart"></canvas> 
+    </div>  
+    
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% block content %}
+
+<div id="container" style="width: 75%;">
+    <canvas id="line_chart" </canvas>
+</div>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+<script>
+
+    $(function () {
+        new Chart(document.getElementById("line_chart"),
+            {
+                "type": "line",
+                "data": {
+                    "labels": ["January", "February", "March", "April", "May", "June", "July","August", "September", "October", "November", "December"],
+                    "datasets": [{
+                        "label": "{{title | safe}}",
+                        "data": {{ data | safe }},
+                        "fill": false, "borderColor":
+                            "rgb(75, 192, 192)", "lineTension": 0.1
+                    }]
+                },
+                "options": {}
+            });
+    });
+    
+
+
+</script>
+
+{% endblock %}
