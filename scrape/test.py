@@ -7,7 +7,7 @@ import time
 import requests
 
 import sys, os, django    
-sys.path.append('/Users/benjamincai/webapp/mysite')
+sys.path.append('/Users/benjamincai/webapp4/mysite')
 os.environ['DJANGO_SETTINGS_MODULE'] = 'mysite.settings'
 django.setup()
 
@@ -18,9 +18,10 @@ def get_builds(url_page):
         url = url_page
         driver = webdriver.Chrome('./chromedriver')
         driver.get(url)
-        time.sleep(5)
+        time.sleep(20)
         html = driver.page_source
         driver.close()
+
         soup = BeautifulSoup(html, 'html.parser')
 
         for link in soup.find_all('a'):
@@ -102,7 +103,10 @@ def find_product_name(p_url):
 
 #Tuple List [part type, part name, date]
 
-for i in range(1,2):
+
+list2 = [353,425,426,427,428,500,501,502,503,575,576,577,588,675,676,677,678,770,771,772,773,875,876,877,878,950,951,952,953,1000,1001,1002,1003]
+
+for i in list2:
         print(i)
         add_cpus = []
         #First get the /b builds links and put them into an Array
@@ -123,21 +127,21 @@ for i in range(1,2):
         for link in build_links:
                 if(not link in unique_urls):
                         build_url = "https://pcpartpicker.com/" + link
-                        # print(build_url)
+                        print(build_url)
                         #product links on the page
                         product_links = []
                         #add to product links
                         # find_p_page()
                         # time.sleep(5)
                         list(set(product_links))
-
+                        time.sleep(30)
                         date = find_p_page()
                         # time.sleep(5)
-
+                        time.sleep(30)
                         p_url = "https://pcpartpicker.com/" + product_links[0]
                         cpu_part = find_parts_page(p_url)
+                        time.sleep(30)
                         cpu_name = find_product_name(p_url)
-                        time.sleep(2)
 
                         type_name_date = [cpu_part, cpu_name,date]
                         add_cpus.append(type_name_date)
