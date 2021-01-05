@@ -1,8 +1,1670 @@
-<html>
+<!DOCTYPE html>
+<html class="light-mode">
 <head>
-<title>Unavailable</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="">
+<meta name="application-name" content="PCPartPicker" />
+<meta name="format-detection" content="telephone=no">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link href="/manifest.webmanifest" rel="manifest">
+<title>Intel Core i7-9700K 3.6 GHz 8-Core Processor (BX80684I79700K) - PCPartPicker</title>
+<link rel="stylesheet" type="text/css" href="//cdna.pcpartpicker.com/static/forever/hash/site-0ad373d9cf1d4afedf093e555f993ab8.css" />
+<script type="text/javascript" src="//cdna.pcpartpicker.com/static/forever/hash/site-740a5bad936de2d32d6efebc5cc3c49b.js"></script>
+<script type="text/javascript">
+    var global_country_sign = '$';
+    $(document).ready(function(){
+        init_consent('.pcpartpicker.com',
+            false,
+            false
+        );
+        init_country_selector('us');
+        init_live_search();
+        init_common_buttons();
+        r_init_dialogs();
+        make_drop_nav('.nav-parts', '.browse-parts-tray');
+        make_drop_nav('.search-parts', '.search-tray', function() {
+            $('#search_q').focus();
+        });
+        
+    });
+
+    
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-16428016-1', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+    
+
+    
+        if ('serviceWorker' in navigator)
+            navigator.serviceWorker.register('/sw.js');
+    
+</script>
+<script type="application/ld+json">
+        {"@context": "https://schema.org/", "@type": "Product", "brand": {"@type": "Thing", "name": "Intel"}, "mpn": "BX80684I79700K", "sku": "BX80684I79700K", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor", "description": "Intel Core i7-9700K 3.6 GHz 8-Core Processor", "offers": {"@type": "AggregateOffer", "lowPrice": "309.00", "highPrice": "349.99", "priceCurrency": "USD", "offerCount": 6}, "review": [{"@type": "Review", "author": "NiiceNiina", "datePublished": "2021-01-03", "description": "had this on bargain since the launched of 10th gen. Still top performance!", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor review by NiiceNiina", "reviewRating": {"@type": "Rating", "bestRating": 5, "ratingValue": 5, "worstRating": 1}}, {"@type": "Review", "author": "Mmburt", "datePublished": "2020-12-21", "description": "Decent upgrade from my i7 7700.", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor review by Mmburt", "reviewRating": {"@type": "Rating", "bestRating": 5, "ratingValue": 4, "worstRating": 1}}, {"@type": "Review", "author": "MysticMC4TW", "datePublished": "2020-12-15", "description": "Pretty good CPU, however I've noticed that it does cap at 90 usage easily. Not sure if it's a problem with the cpu  being the bottleneck or my configuration, but for most games its perfect at achieving 1440p 144fps on high-ultra if not maximum settings. Cyberpunk likes to eat up 80% of the usage as well, but that's probably because its unoptimized", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor review by MysticMC4TW", "reviewRating": {"@type": "Rating", "bestRating": 5, "ratingValue": 4, "worstRating": 1}}, {"@type": "Review", "author": "morux", "datePublished": "2020-12-14", "description": "Should've bought an i7-8700k, the CPU is always at over 100% usage while playing and streaming.", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor review by morux", "reviewRating": {"@type": "Rating", "bestRating": 5, "ratingValue": 3, "worstRating": 1}}, {"@type": "Review", "author": "Purplefrog776", "datePublished": "2020-12-10", "description": "i7 9700k It is a amazing cpu for gaming, (I overclocked it to 4700ghz) my only complaint would be that it has 12 threads which is not exactly ideal for workstation tasks such as rendering UE4 models (I know that's mostly gpu bound but the extra threads help). Also I got this when it was $409 which sucks because a week later it dropped $130.", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor review by Purplefrog776", "reviewRating": {"@type": "Rating", "bestRating": 5, "ratingValue": 4, "worstRating": 1}}, {"@type": "Review", "author": "Tanner8031", "datePublished": "2020-12-09", "description": "For 259.99 this cpu is a beast", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor review by Tanner8031", "reviewRating": {"@type": "Rating", "bestRating": 5, "ratingValue": 5, "worstRating": 1}}, {"@type": "Review", "author": "MrtyMcLargeFries", "datePublished": "2020-11-17", "description": "For $199.99, What's not to love? Awesome CPU overall, and especially for the price.", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor review by MrtyMcLargeFries", "reviewRating": {"@type": "Rating", "bestRating": 5, "ratingValue": 5, "worstRating": 1}}, {"@type": "Review", "author": "cjennings163", "datePublished": "2020-11-16", "description": "I love this thing, handles any task I throw at it!", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor review by cjennings163", "reviewRating": {"@type": "Rating", "bestRating": 5, "ratingValue": 5, "worstRating": 1}}, {"@type": "Review", "author": "HonestlyYT", "datePublished": "2020-10-14", "description": "This is a stupid good processor lol. Even at its stock speed, It's able to shred anything I throw at it, gaming, streaming, recording, literally anything. I love this thing!", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor review by HonestlyYT", "reviewRating": {"@type": "Rating", "bestRating": 5, "ratingValue": 5, "worstRating": 1}}, {"@type": "Review", "author": "ChestyFox", "datePublished": "2020-10-13", "description": "Can't really complain at all with this CPU. I haven't tried OCing yet, so I can't really say how it will fare there. But at stock level, it's been able to power through everything I've thrown at it with spades. Also, not a bad price where it currently sits in my personal opinion.", "name": "Intel Core i7-9700K 3.6 GHz 8-Core Processor review by ChestyFox", "reviewRating": {"@type": "Rating", "bestRating": 5, "ratingValue": 5, "worstRating": 1}}], "image": "http://cdna.pcpartpicker.com/static/forever/images/product/3760e89d1820da393f084e2c18a62e3b.256p.jpg", "aggregateRating": {"@type": "AggregateRating", "ratingValue": 4.816753926701571, "ratingCount": 191}}
+    </script>
+<meta property="og:title" content="Intel Core i7-9700K 3.6 GHz 8-Core Processor">
+<script type="text/javascript">
+            
+    $(document).ready(function(){
+        var images = [
+    	
+        {	
+            src: "//cdna.pcpartpicker.com/static/forever/images/product/3760e89d1820da393f084e2c18a62e3b.1600.jpg",	
+            thumb: "//cdna.pcpartpicker.com/static/forever/images/product/3760e89d1820da393f084e2c18a62e3b.256p.jpg",	
+            heading: "CPU",	
+            title: "Intel Core i7\u002D9700K 3.6 GHz 8\u002DCore Processor"	
+        }	
+    	
+]
+;
+        var gallery = new PPResponsiveGallery('div.offCanvas__gallery', images);
+        var image_bar;
+        if (images.length > 1)
+            image_bar = new PPResponsiveImageBar('#gallery_box', images, gallery);
+        else if (images.length == 1)
+            image_bar = new PPResponsiveSingleImage('#single_image_gallery_box', images, gallery);
+
+        $('#history_days').change(function() {
+            window.location.search = '?history_days=' + $('#history_days').val();
+        })
+
+        var chart_data = [{"label":"Best Buy","data":[[1599443469000,30999],[1599455350000,34999],[1600178951000,33999],[1600265362000,34999],[1600351746000,31999],[1600664945000,28999],[1601874561000,34999],[1601906947000,29999],[1603087764000,28999],[1603692569000,29999],[1605539356000,28999],[1606219771000,29999],[1606752587000,26999],[1606838906000,26999],[1606838906000,null],[1606846197000,26999],[1608059308000,26999],[1608059308000,null],[1608062973000,26999],[1609506579000,29999],[1609654138000,34999],[1609811469000,34999]]},{"label":"Newegg","data":[[1599443469000,31999],[1599483858000,34999],[1599591807000,30999],[1599895923000,34999],[1599897808000,30999],[1599899631000,34999],[1599921236000,30999],[1599923049000,30699],[1600241576000,30999],[1600301037000,30698],[1600673552000,34999],[1600736580000,29999],[1600745504000,34999],[1600754523000,29999],[1600758130000,34999],[1600759900000,30999],[1600761723000,29999],[1600763572000,30999],[1600767098000,29999],[1600770739000,30999],[1600787007000,30499],[1600806835000,29998],[1600808611000,30499],[1600810326000,29998],[1600824765000,30499],[1600826573000,30999],[1600827542000,30999],[1600827542000,null],[1600828551000,29998],[1600841908000,30499],[1600843652000,29998],[1600847232000,30499],[1600848174000,29998],[1600932772000,34999],[1600974187000,29999],[1601537902000,36999],[1601591033000,29999],[1602349703000,29998],[1602574709000,29999],[1602606179000,27499],[1602832129000,29999],[1603219175000,28499],[1603350583000,29999],[1604214556000,28499],[1604480044000,29999],[1604999312000,26999],[1605170386000,29999],[1605665393000,28999],[1605741905000,29298],[1605774256000,25999],[1605947101000,28999],[1606033480000,25999],[1606812821000,29999],[1606930825000,26900],[1607070282000,29999],[1607115261000,26499],[1607329470000,29999],[1607392438000,32298],[1607396938000,27298],[1608020657000,29999],[1608056661000,26499],[1608194448000,27298],[1608625444000,26999],[1608658885000,25999],[1608800985000,27298],[1609384374000,27298],[1609384374000,null],[1609385091000,27298],[1609490394000,32298],[1609544535000,32298],[1609544535000,null],[1609545244000,32298],[1609558089000,32298],[1609558089000,null],[1609558834000,32298],[1609609376000,32298],[1609609376000,null],[1609610045000,32298],[1609786526000,32298],[1609786526000,null],[1609787378000,32298],[1609811469000,32298]]},{"label":"MemoryC","data":[[1599443469000,38428],[1599505235000,38267],[1599692426000,41292],[1599696024000,38267],[1599739226000,41292],[1599746423000,40384],[1599753623000,38267],[1600448431000,38231],[1600873238000,38124],[1600894827000,37804],[1601024422000,37946],[1601240434000,37785],[1601438420000,37785],[1601438420000,null],[1601442029000,37785],[1601568031000,37946],[1601996431000,38267],[1602694826000,38627],[1602932423000,39260],[1602943223000,38627],[1603191625000,38310],[1603897232000,36183],[1604062821000,37253],[1604070034000,36941],[1604073628000,37348],[1604343622000,38499],[1604404823000,37920],[1604498424000,35880],[1604512825000,36735],[1604588421000,36996],[1604610030000,37308],[1604664025000,36639],[1604671227000,36183],[1604685618000,35968],[1604826022000,36639],[1604829621000,35968],[1604887223000,35289],[1604919621000,34725],[1604937626000,34268],[1605009622000,34092],[1605099624000,33881],[1605182422000,33379],[1605265224000,32682],[1606165232000,32955],[1606424425000,33272],[1606496424000,33587],[1606500024000,34535],[1606503621000,34759],[1606777221000,35396],[1606780821000,36987],[1606870819000,36032],[1607000426000,35800],[1607040027000,36396],[1607104826000,36592],[1607508019000,36536],[1608037220000,36160],[1608123628000,36003],[1608224431000,36297],[1608562820000,51023],[1608656422000,38118],[1608735623000,36297],[1609811469000,36297]]},{"label":"Walmart","data":[[1599443469000,32999],[1599519058000,32999],[1599519058000,null],[1599523996000,32999],[1600088353000,32999],[1600088353000,null],[1600092818000,32999],[1602318216000,32999],[1602318216000,null],[1602443540000,32999],[1602492575000,32999],[1602492575000,null],[1606336806000,32999],[1606344500000,32999],[1606344500000,null],[1609734939000,32999],[1609742859000,32999],[1609742859000,null],[1609811469000,null]]},{"label":"Adorama","data":[[1599443469000,37999],[1600236296000,30699],[1602003848000,37999],[1604264640000,37999],[1604264640000,null],[1604268242000,37999],[1607101443000,27499],[1609811469000,27499]]},{"label":"B&H","data":[[1599443469000,30899],[1600258170000,30699],[1600344569000,29999],[1600949366000,28999],[1602590969000,31990],[1605272970000,28999],[1606309768000,27499],[1606828172000,25999],[1606914560000,26900],[1609506575000,31990],[1609811469000,31990]]},{"label":"Staples","data":[[1599443469000,40649],[1608670361000,40649],[1608670361000,null],[1609811469000,null]]}];
+        init_price_history_chart('#price_history', '$', chart_data, 1599443469000, 1609811469000, 43356);
+    });
+
+        </script>
 </head>
-<body>
-PCPartPicker is unavailable. Refcode: 6t3CmG
+<body class="js-triggers" id="product-page">
+<svg style="display: none;"><symbol viewBox="0 0 16 16" id="shape-add"><title>add</title> <polygon points="15,7 15,9 9,9 9,15 7,15 7,9 1,9 1,7 7,7 7,1 9,1 9,7 " /> </symbol><symbol viewBox="0 0 16 16" id="shape-arrow-down"><title>arrow-down</title> <polygon points="13.7,10.3 8,16 2.3,10.3 3.7,8.9 7,12.2 7,0 9,0 9,12.2 12.3,8.9 " /> </symbol><symbol viewBox="0 0 16 16" id="shape-arrow-left"><title>arrow-left</title> <polygon points="5.7,13.7 0,8 5.7,2.3 7.1,3.7 3.8,7 16,7 16,9 3.8,9 7.1,12.3 " /> </symbol><symbol viewBox="0 0 16 16" id="shape-arrow-right"><title>arrow-right</title> <polygon points="10.3,13.7 16,8 10.3,2.3 8.9,3.7 12.2,7 0,7 0,9 12.2,9 8.9,12.3 " /> </symbol><symbol viewBox="0 0 16 16" id="shape-arrow-up"><title>arrow-up</title> <polygon points="2.3,5.7 8,0 13.7,5.7 12.3,7.1 9,3.8 9,16 7,16 7,3.8 3.7,7.1 " /> </symbol><symbol viewBox="0 0 16 15.99" id="shape-author"><title>author</title><path d="M15.88,4a11,11,0,0,0-1.72-2.14A12.72,12.72,0,0,0,11.9.11a.83.83,0,0,0-1,.12L9.16,2a13.37,13.37,0,0,1,2.76,2.16,15.5,15.5,0,0,1,2,2.64L15.76,5A.77.77,0,0,0,15.88,4Zm-4.68.85A13.1,13.1,0,0,0,8.43,2.73L2.1,9.1a.62.62,0,0,0-.2.31C1.28,11.31.7,13.18.07,15a.59.59,0,0,0,.13.73A.67.67,0,0,0,.7,16,.62.62,0,0,0,1,15.94c1.85-.65,3.76-1.28,5.66-1.89a1.73,1.73,0,0,0,.32-.2l6.29-6.33A16.38,16.38,0,0,0,11.2,4.85ZM5.73,12.24l-2-1.92,5-5.05a9.56,9.56,0,0,1,1.11.93,8.57,8.57,0,0,1,.89,1Z" transform="translate(0 0)" /></symbol><symbol viewBox="0 0 16 16" id="shape-checkmark"><title>checkmark</title> <polygon points="6.5,12.7 2.1,8.5 3.5,7.1 6.5,10 12.5,4.1 13.9,5.5 " /> </symbol><symbol viewBox="0 0 16 16" id="shape-clipboard"><title>clipboard</title> <path id="svgstoree6504bd1c55184341284ec8f5303104aAdd_to_Clipboard_1" fill-rule="evenodd" clip-rule="evenodd" d="M12,2v3H4V2H1v14h14V2H12z M4,9h6v1H4V9z M10,14H4v-1h6
+	V14z M12,12H4v-1h8V12z M12,8H4V7h8V8z M10,1H9c0-1-0.5-1-1-1S7,0,7,1H6C5.3,1,5,1.5,5,2v2h6V2C11,1.5,10.7,1,10,1z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-combo"><title>combo</title> <path d="M8,0L8,0L8,0L0,4.6v6.8L8,16l8-4.6V4.6L8,0z M3.7,11.2l-1.7-1V7.1l1.7,1V11.2z M2.8,5.3l5.2-3l1.8,1l-5.2,3L2.8,5.3z
+	 M7,13.1l-1.7-0.9V9.1L7,10V13.1z M6.2,7.2l5.2-3l1.8,1.1L8,8.3L6.2,7.2z M14,10.2l-5,2.9V10l5-2.9V10.2z" /> <polygon points="8,8 8,8 8,8 " /> </symbol><symbol viewBox="0 0 16 16" id="shape-comment"><title>comment</title> <g> <path fill-rule="evenodd" clip-rule="evenodd" d="M0,0v13h2v2.4C2,15.7,2.3,16,2.6,16h1.1c0.2,0,0.3,0,0.5-0.1l5-2.9H16V0H0z
+		 M14,11H8.8L4,13.8V11H2V2h12V11z" /> <rect x="4" y="4" fill-rule="evenodd" clip-rule="evenodd" width="8" height="2" /> <rect x="4" y="7" fill-rule="evenodd" clip-rule="evenodd" width="5" height="2" /> </g> </symbol><symbol viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="shape-cpu"><path d="M16 8H8v8h8V8z" /><path d="M24 9V7h-2V4c0-1.1-.9-2-2-2h-3V0h-2v2h-2V0h-2v2H9V0H7v2H4c-1.1 0-2 .9-2 2v3H0v2h2v2H0v2h2v2H0v2h2v3c0 1.1.9 2 2 2h3v2h2v-2h2v2h2v-2h2v2h2v-2h3c1.1 0 2-.9 2-2v-3h2v-2h-2v-2h2v-2h-2V9h2zm-4 11H4V4h16v16z" /></symbol><symbol viewBox="0 0 16 16" id="shape-delete"><title>delete</title> <polygon points="12.6,2 14,3.4 9.4,8 14,12.6 12.6,14 8,9.4 3.4,14 2,12.6 6.6,8 2,3.4 3.4,2 8,6.6 " /> </symbol><symbol viewBox="0 0 14 16" id="shape-discord"><title>discord</title> <g id="a7b7be95-aee6-4bf3-97d8-e227fdcf9a29" data-name="Layer 2"><g id="ac203262-690b-4e2c-8320-e664a395a8d8" data-name="Layer 1"><path d="M5.55,6.71a.85.85,0,0,0-.81.89.85.85,0,0,0,.81.89.85.85,0,0,0,.82-.89A.85.85,0,0,0,5.55,6.71Z" /><path d="M8.47,6.71a.85.85,0,0,0-.81.89.82.82,0,1,0,1.63,0A.85.85,0,0,0,8.47,6.71Z" /><path d="M12.36,0H1.64A1.65,1.65,0,0,0,0,1.65v10.7A1.65,1.65,0,0,0,1.64,14h9.07l-.42-1.37,1,.95,1,.9L14,16V1.65A1.65,1.65,0,0,0,12.36,0ZM9.27,10.45,8.74,9.8a2.55,2.55,0,0,0,1.45-1,4.72,4.72,0,0,1-.92.47,4.89,4.89,0,0,1-1.16.34A5.52,5.52,0,0,1,6,9.66a6.69,6.69,0,0,1-1.18-.35A4.9,4.9,0,0,1,4.28,9L4.21,9l0,0A2,2,0,0,1,4,8.84a2.5,2.5,0,0,0,1.4.94l-.53.67A2.9,2.9,0,0,1,2.38,9.23,10.73,10.73,0,0,1,3.53,4.57a3.9,3.9,0,0,1,2.25-.84l.08.09A5.51,5.51,0,0,0,3.75,4.87l.47-.23A5.76,5.76,0,0,1,6,4.14l.14,0a7.15,7.15,0,0,1,1.61,0,6.68,6.68,0,0,1,2.41.77,5.25,5.25,0,0,0-2-1l.11-.13a3.9,3.9,0,0,1,2.25.84,10.73,10.73,0,0,1,1.15,4.66A2.93,2.93,0,0,1,9.27,10.45Z" /></g></g> </symbol><symbol viewBox="0 0 16 16" id="shape-dots"><title>dots</title> <g> <circle cx="8" cy="8" r="2" /> <circle cx="14" cy="8" r="2" /> <circle cx="2" cy="8" r="2" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-drag-handle"><title>drag-handle</title> <g> <rect x="2" y="3" width="12" height="2" /> <rect x="2" y="11" width="12" height="2" /> <rect x="2" y="7" width="12" height="2" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-dropdown-arrow"><title>dropdown-arrow</title> <polygon points="2.1,5.5 3.5,4.1 8,8.6 12.5,4.1 13.9,5.5 8,11.4 " /> </symbol><symbol viewBox="0 0 16 16" id="shape-error"><title>error</title><g id="b1e7ca39-4f25-4c40-88bf-2e754b4cb735"><g id="a15822b5-ef0b-4bc7-b836-44218ba5f682"><path d="M12.89,4.53A6,6,0,0,1,8,14a5.61,5.61,0,0,1-1.54-.21L4.89,15.37A7.89,7.89,0,0,0,8,16,8,8,0,0,0,12.9,1.67l-9.79,9.8A6,6,0,0,1,8,2a6,6,0,0,1,1.54.2L11.11.63A7.89,7.89,0,0,0,8,0,8,8,0,0,0,3.1,14.33Z" /></g></g></symbol><symbol viewBox="0 0 16 16" id="shape-facebook"><title>facebook</title> <g id="svgstorebfcc0a6663646a19f59dfe3651326ff3Facebook_4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16,0H0v16h16V0z M11,5h-1C9.2,5,9,5,9,7h2v2H9v4H7V9H5V7h2c0-1.5,0-4,3-4h1V5z" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-history"><title>history</title> <path d="M6,0v3H3v3H0v10h10v-3h3v-3h3V0H6z M8,14H2V8h1v5h5V14z M11,11H5V5h1v5h5V11z M14,8H8V2h6V8z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-inbox"><title>inbox</title> <path d="M0,2v12h16V2H0z M14,4v1L8,7.9L2,5V4H14z M2,12V7.3l6,2.9l6-2.9V12H2z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-instagram"><title>instagram</title> <g> <path d="M14,0H2C0.9,0,0,0.9,0,2v12c0,1.1,0.9,2,2,2h12c1.1,0,2-0.9,2-2V2C16,0.9,15.1,0,14,0z M14,12.5c0,0.8-0.7,1.5-1.5,1.5h-9
+		C2.7,14,2,13.3,2,12.5v-9C2,2.7,2.7,2,3.5,2h9C13.3,2,14,2.7,14,3.5V12.5z" /> <path d="M8,4C5.8,4,4,5.8,4,8c0,2.2,1.8,4,4,4c2.2,0,4-1.8,4-4C12,5.8,10.2,4,8,4z M8,10c-1.1,0-2-0.9-2-2s0.9-2,2-2s2,0.9,2,2
+		S9.1,10,8,10z" /> <circle cx="12" cy="4" r="1" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-issue"><title>issue</title><g id="b17657e8-fb00-494b-ba1a-ab46e98d888e"><g id="aa96ab17-cbed-4f13-a09d-359b11c7fee6"><rect x="7" y="9" width="2" height="2" /><path d="M8,0A8.26,8.26,0,0,0,7,.06V7H9V2.09a6,6,0,1,1-4,.72V.58A8,8,0,1,0,8,0Z" /></g></g></symbol><symbol viewBox="0 0 16 16" id="shape-link"><title>link</title> <g id="svgstore48954c9016fceb631f896eb70fde0d88Link_4"> <path d="M7.6,12.1C7.3,12,7.1,11.9,7,12c-0.1,0.1-1.2,1.2-1.2,1.2c-0.8,0.8-2.2,0.8-3,0c-0.8-0.8-0.8-2.2,0-3l3-3
+		c0.8-0.8,2.2-0.8,3,0c0.4,0.4,1.1,0.4,1.5,0c0.4-0.4,0.4-1.1,0-1.5C10,5.5,9.7,5.3,9.4,5.1C9.2,5,9.1,4.9,8.9,4.8c0,0,0,0,0,0
+		c-0.5-0.2-1-0.3-1.6-0.3c0,0,0,0-0.1,0c-0.7,0-1.4,0.2-2,0.5c-0.4,0.2-0.7,0.4-1,0.8l-3,3c-1.7,1.7-1.7,4.3,0,6
+		c1.7,1.7,4.3,1.7,6,0l2.2-2.2c0.2-0.2,0.1-0.3-0.2-0.3C8.7,12.3,8.2,12.2,7.6,12.1z" /> <path d="M8.8,1.2L6.5,3.5C6.3,3.7,6.4,3.8,6.7,3.8c0.6,0,1.1,0,1.7,0.2C8.6,4.1,8.9,4.1,9,4c0.1-0.1,1.3-1.3,1.3-1.3
+		c0.8-0.8,2.2-0.8,3,0c0.8,0.8,0.8,2.2,0,3l-3,3c-0.8,0.8-2.2,0.8-3,0c-0.4-0.4-1.1-0.4-1.5,0c-0.4,0.4-0.4,1.1,0,1.5
+		c0.5,0.5,1.1,0.9,1.8,1.1c0.1,0,0.3,0.1,0.4,0.1c0.2,0,0.3,0,0.4,0.1c0.2,0,0.3,0,0.5,0c0.2,0,0.3,0,0.5,0c0.1,0,0.2,0,0.3,0
+		c0.8-0.2,1.6-0.5,2.2-1.2l3-3c1.7-1.7,1.7-4.3,0-6C13.1-0.4,10.4-0.4,8.8,1.2z" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-lock"><title>lock</title> <path d="M12,7V5c0-2.2-1.8-4-4-4S4,2.8,4,5v2H2v8h12V7H12z M6,7V5c0-1.1,0.9-2,2-2s2,0.9,2,2v2H6z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-markup-bbcode"><title>markup-bbcode</title> <g> <path d="M7,5.3C7,3.4,6,2,3.5,2H0v12h3c2.3,0,4-0.7,4-3.2C7,9.2,6.2,8.4,5,8C6,7.6,7,7.2,7,5.3z M3.1,12H2V9h1c1.3,0,2,0.5,2,1.5
+		C5,11.5,4.3,12,3.1,12z M3,7H2V4h1.1C4.4,4,5,4.6,5,5.5C5,6.4,4.3,7,3,7z" /> <path d="M14,8c1-0.4,2-0.8,2-2.7C16,3.4,15,2,12.5,2H9v12h3c2.3,0,4-0.7,4-3.2C16,9.2,15.2,8.4,14,8z M11,4h1.1
+		C13.4,4,14,4.6,14,5.5c0,1-0.7,1.6-2,1.6h-1V4z M12.1,12h-1V9h1c1.3,0,2,0.5,2,1.5C14,11.5,13.3,12,12.1,12z" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-markup-html"><title>markup-html</title> <g> <polygon points="2.8,8 5.3,4.6 3.7,3.4 0.2,8 3.7,12.6 5.3,11.4 	" /> <polygon points="12.3,3.4 10.7,4.6 13.2,8 10.7,11.4 12.3,12.6 15.8,8 	" /> <rect x="1.7" y="7" transform="matrix(0.3162 -0.9487 0.9487 0.3162 -2.1193 13.0596)" width="12.6" height="2" /> </g> </symbol><symbol viewBox="0 0 14 16" id="shape-markup-pcpp"><title>markup-pcpp</title> <g><g><path d="M7,0,2,3V5.14L0,4v8l7,4V14l2,1,5-3V3.94ZM7,1.73l4.69,2.64-2,1.23L5,3ZM5.5,13.42l-4-2.29V6.58l4,2.29ZM7,11.8V8L4,6.31,5.8,5.14,9,6.94V10.6Zm5.5-.65-2,1.2V7.2l2-1.2Z" /></g></g> </symbol><symbol viewBox="0 0 20 20" id="shape-markup-cyclingbuilder"><title>markup-cyclingbuilder</title> <g> <path d="M8.1,17.9l-3-3l0,0l0,0c-1.3-1.3-2-3-2-4.9c0-3.8,3.1-7,7-7h4.3h-0.2h3c0.5,0.5,1,1.2,1.4,1.8h-2.4h0h-1.7h0.2H10
+		c-2.8,0-5.1,2.3-5.1,5.1c0,1.4,0.6,2.7,1.5,3.6l0,0l0,0l4.5,4.5l0.4,0.4l1.2,1.2c-0.7,0.2-1.5,0.3-2.3,0.3L8.1,17.9z" /> <path d="M19.2,6.1h-2c0.6,1.2,1,2.5,1,3.9c0,3.7-2.5,6.9-5.9,7.8l1.4,1.4c3.7-1.5,6.3-5.1,6.3-9.3C20,8.6,19.7,7.3,19.2,6.1z" /> <path d="M15.7,6.1h-2.4c1.1,0.9,1.8,2.4,1.8,3.9c0,2.8-2.3,5.1-5.1,5.1c-0.1,0-0.3,0-0.4,0l1.7,1.7c3.2-0.6,5.7-3.4,5.7-6.8
+		C17,8.5,16.5,7.2,15.7,6.1z" /> <path d="M10,1.8h5.7C14.1,0.7,12.1,0,10,0C4.5,0,0,4.5,0,10c0,4.9,3.6,9,8.3,9.8l-4.1-4.1l0,0c-1.5-1.5-2.4-3.5-2.4-5.8
+		C1.8,5.5,5.5,1.8,10,1.8z" /> <path d="M10,6.1c-2.2,0-3.9,1.8-3.9,3.9s1.8,3.9,3.9,3.9s3.9-1.8,3.9-3.9S12.2,6.1,10,6.1z M10,12.1c-1.2,0-2.1-1-2.1-2.1
+		s1-2.1,2.1-2.1s2.1,1,2.1,2.1S11.2,12.1,10,12.1z" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-markup-plain-text"><title>markup-plain-text</title> <polygon points="3,2 3,4 3,6 4,6 5,4 7,4 7,12 5,13 5,14 11,14 11,13 9,12 9,4 11,4 12,6 13,6 13,4 13,2 " /> </symbol><symbol viewBox="0 0 16 16" id="shape-markup-reddit"><title>markup-reddit</title> <g> <path d="M16,6.9c0-1-0.8-1.8-1.8-1.8c-0.5,0-1,0.2-1.3,0.6c-1.1-0.8-2.5-1.3-4.1-1.4L10,1.2l2.6,0.5c0.1,0.8,0.7,1.4,1.5,1.4
+		c0.9,0,1.6-0.7,1.6-1.6c0-0.9-0.7-1.6-1.6-1.6c-0.6,0-1.1,0.3-1.4,0.8L9.5,0.2L7.9,4.2C6,4.2,4.3,4.8,3.1,5.7
+		C2.8,5.3,2.3,5.1,1.8,5.1C0.8,5.1,0,5.9,0,6.9c0,0.7,0.4,1.3,1,1.6C0.9,8.8,0.9,9.2,0.9,9.5c0,2.9,3.2,5.3,7.1,5.3s7.1-2.4,7.1-5.3
+		c0-0.4-0.1-0.7-0.1-1.1C15.5,8.2,16,7.6,16,6.9z M3.5,8.2c0-0.7,0.6-1.3,1.3-1.3s1.3,0.6,1.3,1.3c0,0.7-0.6,1.3-1.3,1.3
+		S3.5,8.9,3.5,8.2z M11,12.1c0,0-1.1,1.1-3.1,1.1s-3-1-3.1-1.1c-0.2-0.2-0.2-0.6,0-0.8c0.2-0.2,0.6-0.2,0.8,0c0,0,0.8,0.7,2.3,0.7
+		c1.5,0,2.2-0.7,2.3-0.7c0.2-0.2,0.6-0.2,0.8,0C11.3,11.6,11.3,11.9,11,12.1z M11.1,9.5c-0.7,0-1.3-0.6-1.3-1.3
+		c0-0.7,0.6-1.3,1.3-1.3c0.7,0,1.3,0.6,1.3,1.3C12.4,8.9,11.8,9.5,11.1,9.5z" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-menu"><title>menu</title> <g> <rect y="2" width="16" height="2" /> <rect y="12" width="16" height="2" /> <rect y="7" width="16" height="2" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-pin"><title>pin</title> <path d="M10,3L4.9,6.4L4.4,6.1C3.9,5.9,3.4,6,3,6.3L2.5,6.8L5,9.5l-4.5,6L6.6,11l2.6,2.4l0.5-0.5c0.4-0.4,0.5-0.9,0.2-1.4L9.6,11
+	L13,6l2,0V5l-4-4h-1V3z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-radio-button"><title>radio-button</title> <circle cx="8" cy="8" r="3" /> </symbol><symbol viewBox="0 0 16 16" id="shape-save"><title>save</title> <g id="svgstoree6b8220da756aa9445d8dc7475de2d4aDownload_1"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7,5H9V0H7v5H5.3C5,5,4.9,5.3,5.1,5.5l2.6,3.3c0.2,0.2,0.5,0.2,0.6,0l2.6-3.3
+		C11.1,5.3,11,5,10.7,5z" /> <polygon fill-rule="evenodd" clip-rule="evenodd" points="11,7 11,9 14,9 14,12 2,12 2,9 5,9 5,7 0,7 0,16 16,16 16,7 	" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-search"><title>search</title> <path d="M10.9,9.5C11.6,8.5,12,7.3,12,6c0-3.3-2.7-6-6-6S0,2.7,0,6s2.7,6,6,6c1.3,0,2.5-0.4,3.5-1.1l5.1,5.1l1.4-1.4L10.9,9.5z M2,6
+	c0-2.2,1.8-4,4-4s4,1.8,4,4c0,2.2-1.8,4-4,4S2,8.2,2,6z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-settings"><title>settings</title> <path d="M16,9V7l-2.2-0.6c-0.1-0.5-0.3-0.9-0.5-1.3l1.1-2L13,1.7l-2,1.1c-0.4-0.2-0.8-0.4-1.3-0.5L9,0H7L6.4,2.2
+	C5.9,2.4,5.5,2.5,5.1,2.8l-2-1.1L1.6,3.1l1.1,2C2.5,5.5,2.4,5.9,2.2,6.4L0,7v2l2.2,0.6c0.1,0.5,0.3,0.9,0.5,1.3l-1.1,2L3,14.3l2-1.1
+	c0.4,0.2,0.8,0.4,1.3,0.5L7,16h2l0.6-2.2c0.5-0.1,0.9-0.3,1.3-0.5l2,1.1l1.4-1.4l-1.1-2c0.2-0.4,0.4-0.8,0.5-1.3L16,9z M12,8
+	c0,2.2-1.8,4-4,4s-4-1.8-4-4s1.8-4,4-4S12,5.8,12,8z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-share"><title>share</title> <path id="svgstore99ba9f2d10b202bfa2229f00092dfdc9Reply_1_1_" d="M8,1.9C8,1,8.5,0.7,9.2,1.3l5.6,5.2c0.3,0.3,0.3,0.7,0,1l-5.6,5.2C8.5,13.3,8,13,8,12.1V10H6.6
+	c-2.5,0.4-3.9,2.2-4.9,4.5c-0.1,0.4-0.4,0.4-0.5,0C1.1,13.8,1,13.1,1,12.4C1,8.2,4,4.7,8,4V1.9z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-star-empty"><title>star-empty</title> <path d="M8,3.9L8.9,6L9.2,7l1,0.1l2.3,0.2l-1.7,1.6L10,9.4l0.2,0.9l0.5,2.5l-1.9-1.2L8,11.2l-0.9,0.5l-1.9,1.2l0.5-2.5L6,9.4
+	L5.2,8.8L3.5,7.3l2.3-0.2l1-0.1L7.1,6L8,3.9 M8,0C7.9,0,7.8,0.1,7.7,0.2L5.6,5.4L0.3,5.9C0,5.9-0.1,6.3,0.1,6.5l4,3.6l-1.2,5.6
+	c0,0.2,0.1,0.4,0.3,0.4c0.1,0,0.1,0,0.2-0.1L8,13.1l4.6,2.8c0.1,0,0.1,0.1,0.2,0.1c0.2,0,0.4-0.2,0.3-0.4L11.9,10l4-3.6
+	c0.2-0.2,0.1-0.5-0.2-0.6l-5.3-0.5L8.3,0.2C8.2,0.1,8.1,0,8,0L8,0z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-star-full"><title>star-full</title> <path d="M8,13.1l4.6,2.8c0.2,0.2,0.6-0.1,0.5-0.3L11.9,10l4-3.6c0.2-0.2,0.1-0.5-0.2-0.6l-5.3-0.5L8.3,0.2c-0.1-0.3-0.5-0.3-0.6,0
+	L5.6,5.4L0.3,5.9C0,5.9-0.1,6.3,0.1,6.5l4,3.6l-1.2,5.6c-0.1,0.3,0.3,0.5,0.5,0.3L8,13.1z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-star-half"><title>star-half</title> <g id="svgstorec7a7267f60385e4654c887636181f842full"> <path d="M8,13.1l4.6,2.8c0.2,0.2,0.6-0.1,0.5-0.3L11.9,10l4-3.6c0.2-0.2,0.1-0.5-0.2-0.6l-5.3-0.5L8.3,0.2c-0.1-0.3-0.5-0.3-0.6,0
+		L5.6,5.4L0.3,5.9C0,5.9-0.1,6.3,0.1,6.5l4,3.6l-1.2,5.6c-0.1,0.3,0.3,0.5,0.5,0.3L8,13.1z" /> </g> <g id="svgstorec7a7267f60385e4654c887636181f842half"> <path d="M8,0C7.9,0,7.8,0.1,7.7,0.2L5.6,5.4L0.3,5.9C0,5.9-0.1,6.3,0.1,6.5l4,3.6l-1.2,5.6c-0.1,0.3,0.3,0.5,0.5,0.3L8,13.1V0z" /> </g> </symbol><symbol viewBox="0 0 12 12" id="shape-switch"><title>switch</title> <g> <path d="M12,6v6L8,8h2V6c0-.86,0-2-1.11-2C8.26,4,7.71,5,7.24,5.85l-.68,1.2c-.71,1.26-1.66,3-3.38,3l-.29,0C1.81,9.88,0,9.2,0,6V0L4,4H2V6c0,1.89.75,2,1.1,2,.74,0,1.24-1.09,1.71-1.93l.68-1.19C6.21,3.59,7.19,1.8,9.1,2S12,3.73,12,6Z" /></g></symbol><symbol viewBox="0 0 16 16" id="shape-success"><title>success</title><g id="ae5d57c1-25a9-4acf-9423-53ece48b8287"><g id="a6cf5708-628a-46a8-82c1-d78ecc833d76"><path d="M14,2.69a8,8,0,1,1-1.51-1.32L11,2.81A5.89,5.89,0,0,0,8,2a6,6,0,1,0,5.6,3.83L8,11.3,3.61,7.12,5,5.72,8,8.57Z" /></g></g></symbol><symbol viewBox="0 0 16 16" id="shape-tag"><title>tag</title> <path id="svgstorea5a9210f044ad52be8e5d96797ab3cd8Tag_1" fill-rule="evenodd" clip-rule="evenodd" d="M15,0H8.1C7.8,0,7.4,0.2,7.2,0.4L0.3,7.3c-0.4,0.4-0.4,1,0,1.4l7,7
+	c0.4,0.4,1,0.4,1.4,0l6.9-6.9C15.8,8.6,16,8.2,16,7.9V1C16,0.4,15.6,0,15,0z M11,7C9.9,7,9,6.1,9,5s0.9-2,2-2c1.1,0,2,0.9,2,2
+	S12.1,7,11,7z" /> </symbol><symbol viewBox="0 0 16 16" id="shape-twitch"><title>twitch</title> <g> <path d="M1,0L0,3v11h4v2h2.5l2-2H12l4-4V0H1z M14,9l-2,2H8.6L6,13.5V11H3V2h11V9z" /> <rect x="6" y="4" width="2" height="4" /> <rect x="10" y="4" width="2" height="4" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-twitter"><title>twitter</title> <g id="svgstoref90a96b77ecb27e54ea9e726efbad5bfTwitter_1"> <path d="M16,3c-0.6,0.3-1.2,0.4-1.9,0.5c0.7-0.4,1.2-1,1.4-1.8c-0.6,0.4-1.3,0.7-2.1,0.8c-0.6-0.6-1.5-1-2.4-1
+		C9.3,1.5,7.8,3,7.8,4.8c0,0.3,0,0.5,0.1,0.7C5.1,5.4,2.7,4.1,1.1,2.1c-0.3,0.5-0.4,1-0.4,1.7c0,1.1,0.8,2.1,1.6,2.7
+		C1.8,6.5,1,6.3,1,6.1c0,0,0,0,0,0C1,7.7,2,9,3.5,9.3c-0.3,0.1-0.7,0.1-1,0.1c-0.2,0-0.5,0-0.7-0.1c0.4,1.3,1.6,2.3,3,2.3
+		c-1.1,0.9-2.6,1.4-4.1,1.4c-0.3,0-0.5,0-0.8,0c1.5,0.9,3.2,1.5,5,1.5c6,0,9.3-5,9.3-9.3c0-0.1,0-0.3,0-0.4C15,4.3,15.6,3.7,16,3z" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-user"><title>user</title> <path fill-rule="evenodd" clip-rule="evenodd" d="M16,14c-0.2-3-1.7-4.9-4.3-5.7C12.5,7.5,13,6.3,13,5c0-2.8-2.2-5-5-5S3,2.2,3,5
+	c0,1.3,0.5,2.5,1.3,3.3C1.7,9.1,0.3,11,0,14l0,1v1h16v-1L16,14z M8,2c1.7,0,3,1.3,3,3c0,1.6-1.3,3-3,3S5,6.6,5,5C5,3.3,6.3,2,8,2z
+	 M7,10h2c3.2,0,4.7,1.2,5,4H2C2.3,11.2,3.8,10,7,10z" /> </symbol><symbol viewBox="0 0 14 16" id="shape-warning"><title>warning</title><g id="a5fb08a3-aaed-49e3-9f06-c897f01d8dda"><g id="bef19ab1-4e2c-403c-8f1d-78b9ca4047e0"><path d="M3,12h9a2,2,0,0,0,2-2V2a2,2,0,0,0-2-2H2A2,2,0,0,0,0,2V14a2,2,0,0,0,2,2H12a2,2,0,0,0,2-2V12a2,2,0,0,1-2,2H3a1,1,0,0,1,0-2ZM7,2A1,1,0,1,1,6,3,1,1,0,0,1,7,2ZM6,6A1,1,0,0,1,8,6V9A1,1,0,0,1,6,9Z" /></g></g></symbol><symbol viewBox="0 0 16 16" id="shape-wattage"><title>wattage</title> <g transform="translate(0,-952.36218)"> <path d="M12.6,952.4c-0.1,0-0.1,0-0.2,0.1l-9.3,6.2c0,0-0.1,0.1-0.1,0.1c0,0.1,0,0.1,0,0.2c0,0.1,0,0.1,0.1,0.2
+		c0,0.1,0.1,0.1,0.1,0.1l4.1,2.2L3,967.8c-0.2,0.4,0.2,0.7,0.5,0.5l10.4-8.2c0,0,0.1-0.1,0.1-0.1c0-0.1,0-0.1,0-0.2
+		c0-0.1,0-0.1-0.1-0.2c0,0-0.1-0.1-0.1-0.1l-3.9-1.7l2.9-4.9c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1-0.1-0.2c0-0.1-0.1-0.1-0.1-0.1
+		S12.7,952.4,12.6,952.4L12.6,952.4z" /> </g> </symbol><symbol viewBox="0 0 16 16" id="shape-weight"><title>weight</title> <path d="M14,6c0,0-0.6-0.3-1.7-0.5l0.7-4c0-0.3-0.1-0.7-0.4-0.8C11.8,0.4,10.5,0,8,0S4.2,0.4,3.5,0.7C3.2,0.8,3,1.2,3.1,1.5l0.7,4
+	C2.6,5.7,2,6,2,6L0,16h16L14,6z M5.7,5L5.2,2.2C5.8,2.1,6.7,2,8,2s2.2,0.1,2.8,0.2L10.3,5H5.7z" /> </symbol><symbol viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="shape-wrench"><path d="M23.9 7.9c-.3 1.3-.9 2.4-1.8 3.3-.9.9-2 1.5-3.3 1.8-1.3.3-2.5.2-3.6-.3L4.6 23.2c-.5.5-1.2.8-1.9.8A2.732 2.732 0 010 21.3c0-.7.3-1.3.8-1.9L11.3 8.9c-.4-1.2-.5-2.4-.3-3.6.3-1.3.9-2.4 1.8-3.3.9-.9 2-1.5 3.3-1.8 1.3-.3 2.5-.2 3.6.3l-4.1 4.1L16 8l3.4.4 4.1-4.1c.5 1.1.6 2.3.4 3.6z" /></symbol><symbol viewBox="0 0 16 16" id="shape-youtube"><title>youtube</title> <g id="svgstore9835bd0812257179631c97dc285c4eb5Lozenge"> <g> <path d="M15.8,4.5c0,0-0.2-1-0.6-1.6c-0.6-0.7-1.3-0.7-1.6-0.7C11.4,2,8,2,8,2l0,0c0,0-3.4,0-5.6,0.2c-0.4,0-1,0.1-1.6,0.7
+			C0.4,3.5,0.2,4.5,0.2,4.5S0,5.9,0,7.3v1.3c0,1.5,0.2,2.7,0.2,2.7s0.2,1.2,0.6,1.8c0.6,0.7,1.4,0.7,1.8,0.8C3.8,14,8,14,8,14
+			s3.4,0,5.6-0.2c0.4,0,1-0.1,1.6-0.7c0.4-0.5,0.6-1.8,0.6-1.8S16,10.1,16,8.7V7.3C16,5.9,15.8,4.5,15.8,4.5z M6,10.6V5.4L11,8
+			L6,10.6z" /> </g> </g> </symbol></svg>
+<header class="masthead">
+<nav id="navigation" role="navigation">
+<div class="navDesktop">
+<section class="nav__top">
+<div class="nav__wrapper nav__wrapper--top xs-col-11 xs-mx-auto">
+<ul class="nav__logoWrapper list-unstyled">
+<li><a href="/products/cpu/" onClick="r_navigate_back('/products/cpu/'); return false;" class="nav__back"><svg class="icon shape-dropdown-arrow"><use xlink:href="#shape-dropdown-arrow" /></svg></a></li>
+<li><a href="/" class="nav__logo"><img src="https://cdna.pcpartpicker.com/static/forever/img/pcpp-logo.svg" class="nav__logo--full"></a></li>
+</ul>
+<ul class="nav__account nav__account--desktop list-unstyled">
+<li class="nav__account--login"><a href="/accounts/login/">Log In</a></li>
+<li class="nav__account--register"><a href="/accounts/register/" id="js-trigger--profileMobile">Register</a></li>
+<li class="nav__account--country">
+<select class="select select--small language-selector pp-country-select" name="cc">
+<option value="ar">Argentina</option>
+<option value="au">Australia</option>
+<option value="bh">Bahrain</option>
+<option value="be">Belgium</option>
+<option value="br">Brazil</option>
+<option value="ca">Canada</option>
+<option value="dk">Denmark</option>
+<option value="fi">Finland</option>
+<option value="fr">France</option>
+<option value="de">Germany</option>
+<option value="hk">Hong Kong</option>
+<option value="in">India</option>
+<option value="ie">Ireland</option>
+<option value="il">Israel</option>
+<option value="it">Italy</option>
+<option value="jp">Japan</option>
+<option value="kw">Kuwait</option>
+<option value="mx">Mexico</option>
+<option value="nl">Netherlands</option>
+<option value="nz">New Zealand</option>
+<option value="no">Norway</option>
+<option value="om">Oman</option>
+<option value="ph">Philippines</option>
+<option value="pl">Poland</option>
+<option value="pt">Portugal</option>
+<option value="qa">Qatar</option>
+<option value="ro">Romania</option>
+<option value="sa">Saudi Arabia</option>
+<option value="sg">Singapore</option>
+<option value="kr">South Korea</option>
+<option value="es">Spain</option>
+<option value="se">Sweden</option>
+<option value="th">Thailand</option>
+<option value="tr">Turkey</option>
+<option value="ae">United Arab Emirates</option>
+<option value="uk">United Kingdom</option>
+<option value="us" selected="selected">United States</option>
+</select>
+<span class="flag-icon flag-us"></span>
+</li>
+<li class="nav__account--mode">
+<p class="modeSwitch__label">Light Mode</p>
+<div class="modeSwitch">
+<div class="modeSwitch__wrapper pp_toggle_theme">
+<div class="modeSwitch__toggle modeSwitch__toggle--light-mode"></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+<section class="nav__bottom">
+<div class="nav__wrapper nav__wrapper--bottom xs-col-11 xs-mx-auto">
+<ul class="nav__categories list-unstyled">
+<li class="nav__categories--partlist"><a href="/list/"><svg class="nav__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Layer 2"><path d="M23.85 7.87a6.39 6.39 0 0 1-1.79 3.31 6.54 6.54 0 0 1-6.93 1.5L4.58 23.22a2.57 2.57 0 0 1-1.89.78 2.64 2.64 0 0 1-1.91-.78 2.68 2.68 0 0 1-.78-1.9 2.71 2.71 0 0 1 .78-1.9L11.32 8.87a6.54 6.54 0 0 1 1.5-6.93A6.39 6.39 0 0 1 16.13.15a6.12 6.12 0 0 1 3.63.29l-4.1 4.1.4 3.4 3.4.4 4.1-4.1a6.12 6.12 0 0 1 .29 3.63z" data-name="Layer 1" /></g></svg>System Builder</a></li>
+<li class="nav__categories--guides"><a href="/guide/"><svg class="nav__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 24"><g data-name="Layer 2"><path d="M12 0H0v24h18V6zm4 22H2v-2h3v-1H2v-2h5v-1H2v-2h3v-1H2v-2h5v-1H2V8h3V7H2V5h5V4H2V2h9v5h5z" data-name="Layer 1" /></g></svg>Build Guides</a></li>
+<li class="nav__categories--builds"><a href="/builds/"><svg class="nav__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24"><g data-name="Layer 2"><g data-name="Layer 1"><path d="M19.08 1l-12-1H7a.62.62 0 0 0-.19 0h-.14l-.09.1-.13.07-.13.09L.45 4.17A1 1 0 0 0 0 5v17a1 1 0 0 0 .84 1l6 1H19a1 1 0 0 0 1-1V2a1 1 0 0 0-.92-1zM6 21.82l-4-.67V5.54l4-2.67zM18 22H8V2.09l10 .83z" /><circle cx="13" cy="18" r="1" /><path d="M17 4.6L9 4v2l8 .6v-2zM17 7.6L9 7v2l8 .6v-2z" /></g></g></svg>Completed Builds</a></li>
+<li class="nav__categories--browseProducts js-trigger--browseProducts"><a href="#"><svg class="nav__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Layer 2"><g data-name="Layer 1"><path d="M8 8h8v8H8z" /><path d="M24 9V7h-2V4a2 2 0 0 0-2-2h-3V0h-2v2h-2V0h-2v2H9V0H7v2H4a2 2 0 0 0-2 2v3H0v2h2v2H0v2h2v2H0v2h2v3a2 2 0 0 0 2 2h3v2h2v-2h2v2h2v-2h2v2h2v-2h3a2 2 0 0 0 2-2v-3h2v-2h-2v-2h2v-2h-2V9zm-4 11H4V4h16z" /></g></g></svg>Browse Products<span class="down-caret"><svg class="icon shape-dropdown-arrow"><use xlink:href="#shape-dropdown-arrow" /></svg></span></a></li>
+<li class="nav__subLinks"><div class="nav__subLinks--group1"><a href="/products/pricedrop/" class="nav__categories--drops">Price Drops</a><a href="/forums/" class="nav__categories--forums">Forums</a></div><div class="nav__subLinks--group2"><a href="/trends/" class="nav__categories--trends">Price Trends</a><a href="/blog/" class="nav__categories--blog">Blog</a></div></li>
+<li>
+<div class="browseProducts browseProducts--hide">
+<div class="browseProducts__wrapper xs-col-11 xs-mx-auto">
+<div class="browseProducts__block--group1">
+<ul class="browseProducts__block--popular list-unstyled">
+<li><a href="/products/cpu/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-cpu.png" alt="CPU">CPU</a></li>
+<li><a href="/products/cpu-cooler/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-cpucooler.png" alt="CPU Cooler">CPU Cooler</a></li>
+<li><a href="/products/motherboard/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-motherboard.png" alt="Motherboard">Motherboard</a></li>
+<li><a href="/products/memory/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-memory.png" alt="Memory">Memory</a></li>
+<li><a href="/products/internal-hard-drive/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-ssd.png" alt="Storage">Storage</a></li>
+<li><a href="/products/video-card/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-videocard.png" alt="Video Card">Video Card</a></li>
+<li><a href="/products/power-supply/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-powersupply.png" alt="Power Supply">Power Supply</a></li>
+<li><a href="/products/case/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-case.png" alt="Case">Case</a></li>
+</ul>
+</div>
+<div class="browseProducts__block--group2">
+<div class="browseProducts__col1">
+<ul class="browseProducts__block--cooling list-unstyled">
+<li><h2>Cooling</h2></li>
+<li><a href="/products/case-fan/">Case Fans</a></li>
+<li><a href="/products/fan-controller/">Fan Controllers</a></li>
+<li><a href="/products/thermal-paste/">Thermal Compound</a></li>
+</ul>
+<ul class="browseProducts__block--drives list-unstyled">
+<li><h2>Drives</h2></li>
+<li><a href="/products/optical-drive/">Optical Drives</a></li>
+</ul>
+<ul class="browseProducts__block--expansion list-unstyled">
+<li><h2>Expansion</h2></li>
+<li><a href="/products/sound-card/">Sound Cards</a></li>
+<li><a href="/products/wired-network-card/">Wired Networking</a></li>
+<li><a href="/products/wireless-network-card/">Wireless Networking</a></li>
+</ul>
+</div>
+<div class="browseProducts__col2">
+<ul class="browseProducts__block--displays list-unstyled">
+<li><h2>Displays</h2></li>
+<li><a href="/products/monitor/">Monitors</a></li>
+</ul>
+<ul class="browseProducts__block--externalStorage list-unstyled">
+ <li><h2>External Storage</h2></li>
+<li><a href="/products/external-hard-drive/">External Hard Drives</a></li>
+</ul>
+<ul class="browseProducts__block--peripherals list-unstyled">
+<li><h2>Peripherals</h2></li>
+<li><a href="/products/headphones/">Headphones</a></li>
+<li><a href="/products/keyboard/">Keyboards</a></li>
+<li><a href="/products/mouse/">Mice</a></li>
+<li><a href="/products/speakers/">Speakers</a></li>
+<li><a href="/products/ups/">Uninterruptible Power Supplies</a></li>
+<li><a href="/products/webcam/">Webcams</a></li>
+</ul>
+</div>
+<div class="browseProducts__col3">
+<ul class="browseProducts__block--software list-unstyled">
+<li><h2>Software</h2></li>
+<li><a href="/products/software/#W=1">Antivirus</a></li>
+<li><a href="/products/software/#W=8">Audio &amp; Video</a></li>
+<li><a href="/products/software/#W=2">Backup</a></li>
+<li><a href="/products/software/#W=3">Design &amp; Illustration</a></li>
+<li><a href="/products/software/#W=5">Internet Security</a></li>
+<li><a href="/products/software/#W=7">Office &amp; Productivity</a></li>
+<li><a href="/products/os/">Operating Systems</a></li>
+<li><a href="/products/software/#W=6">Photography</a></li>
+</ul>
+<ul class="browseProducts__block--software list-unstyled">
+<li><h2>Other</h2></li>
+<li><a href="/products/laptop/">Laptops</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<a class="nav__search js-trigger-offCanvas--search" href="#"><svg class="icon shape-search"><use xlink:href="#shape-search" /></svg></a>
+</div>
+</section>
+</div>
+<div class="navMobile xs-py1 xs-px2">
+<div class="nav__wrapper">
+<ul class="nav__logoWrapper list-unstyled">
+<li><a href="/products/cpu/" onClick="r_navigate_back('/products/cpu/'); return false;" class="nav__back"><svg class="icon shape-dropdown-arrow"><use xlink:href="#shape-dropdown-arrow" /></svg></a></li>
+<li><a href="/" class="nav__logo"><img src="/static/img/pcpp-icon.svg" class="nav__logo--icon"></a></li>
+</ul>
+<ul class="nav__menu--mobile list-unstyled">
+<li class="nav-icon nav-icon--builder"><a class="" href="/list"><svg class="icon shape-wrench"><use xlink:href="#shape-wrench" /></svg></a></li>
+ <li class="nav-icon nav-icon--parts js-trigger--browseProducts"><a class="" href="#"><svg class="icon shape-cpu"><use xlink:href="#shape-cpu" /></svg></a></li>
+<li class="nav-icon nav-icon--search"><a class="js-trigger-offCanvas--search" href="#"><svg class="icon shape-search"><use xlink:href="#shape-search" /></svg></a></li>
+
+<li class="nav-icon nav-icon--account"><a href="#" class="js-trigger--accountMobile"><svg class="icon shape-user"><use xlink:href="#shape-user" /></svg></a></li>
+<li class="nav-icon nav-icon--resources"><a href="#" class="js-trigger--resourcesMobile"><svg class="icon shape-menu"><use xlink:href="#shape-menu" /></svg></a></li>
+</ul>
+</div>
+</div>
+<div class="navCard navCard--search">
+<div class="navCard__header">
+<div class="navCard__wrapper">
+<a href="#" class="nav__back js-trigger--close"><svg class="icon shape-dropdown-arrow"><use xlink:href="#shape-dropdown-arrow" /></svg></a>
+<h6 class="navCard__title"><svg class="icon shape-search"><use xlink:href="#shape-search" /></svg><span>Search Products</span></h6>
+</div>
+</div>
+<div class="navCard__content">
+<div class="md-col-11 xs-mx-auto xs-py3 xs-px2 md-px0">
+<div class="searchField">
+<form id="site_search_nav" action="/search/" method="get">
+<input id="search_q" name="q" type="text" class="text-input" placeholder="Search...">
+<button class="button button--primary xs-col-12" onClick="$('#site_search_nav').submit();return false;">Search</button>
+</form>
+</div>
+<div class="navSearch__content">
+<div class="navSearch__wrapper">
+<section class="" id="search_result">
+<div class="search_results"></div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navCard navCard--products">
+<div class="navCard__header">
+<div class="navCard__wrapper">
+<a href="#" class="nav__back js-trigger--close"><svg class="icon shape-dropdown-arrow"><use xlink:href="#shape-dropdown-arrow" /></svg></a>
+<h6 class="navCard__title"><svg class="icon shape-cpu"><use xlink:href="#shape-cpu" /></svg><span>Browse Products</span></h6>
+</div>
+</div>
+<div class="navCard__content">
+<div class="navCard__wrapper">
+<div class="browseProducts">
+<div class="browseProducts__block--group1">
+<ul class="browseProducts__block--popular list-unstyled">
+<li><a href="/products/cpu/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-cpu.png" alt="CPU">CPU</a></li>
+<li><a href="/products/cpu-cooler/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-cpucooler.png" alt="CPU Cooler">CPU Cooler</a></li>
+<li><a href="/products/motherboard/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-motherboard.png" alt="Motherboard">Motherboard</a></li>
+<li><a href="/products/memory/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-memory.png" alt="Memory">Memory</a></li>
+<li><a href="/products/internal-hard-drive/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-ssd.png" alt="Storage">Storage</a></li>
+<li><a href="/products/video-card/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-videocard.png" alt="Video Card">Video Card</a></li>
+<li><a href="/products/power-supply/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-powersupply.png" alt="Power Supply">Power Supply</a></li>
+<li><a href="/products/case/"><img src="//cdna.pcpartpicker.com/static/forever/img/nav-case.png" alt="Case">Case</a></li>
+</ul>
+</div>
+<div class="browseProducts__block--group2">
+<div class="browseProducts__col1">
+<ul class="browseProducts__block--cooling list-unstyled">
+<li><h2>Cooling</h2></li>
+<li><a href="/products/case-fan/">Case Fans</a></li>
+<li><a href="/products/fan-controller/">Fan Controllers</a></li>
+<li><a href="/products/thermal-paste/">Thermal Compound</a></li>
+</ul>
+<ul class="browseProducts__block--drives list-unstyled">
+<li><h2>Drives</h2></li>
+<li><a href="/products/optical-drive/">Optical Drives</a></li>
+</ul>
+<ul class="browseProducts__block--expansion list-unstyled">
+<li><h2>Expansion</h2></li>
+<li><a href="/products/sound-card/">Sound Cards</a></li>
+<li><a href="/products/wired-network-card/">Wired Networking</a></li>
+<li><a href="/products/wireless-network-card/">Wireless Networking</a></li>
+</ul>
+</div>
+<div class="browseProducts__col2">
+<ul class="browseProducts__block--displays list-unstyled">
+<li><h2>Displays</h2></li>
+<li><a href="/products/monitor/">Monitors</a></li>
+</ul>
+<ul class="browseProducts__block--externalStorage list-unstyled">
+<li><h2>External Storage</h2></li>
+<li><a href="/products/external-hard-drive/">External Hard Drives</a></li>
+</ul>
+<ul class="browseProducts__block--peripherals list-unstyled">
+<li><h2>Peripherals</h2></li>
+<li><a href="/products/headphones/">Headphones</a></li>
+<li><a href="/products/keyboard/">Keyboards</a></li>
+<li><a href="/products/mouse/">Mice</a></li>
+<li><a href="/products/speakers/">Speakers</a></li>
+<li><a href="/products/ups/">Uninterruptible Power Supplies</a></li>
+<li><a href="/products/webcam/">Webcams</a></li>
+</ul>
+</div>
+<div class="browseProducts__col3 xs-pb6">
+<ul class="browseProducts__block--software list-unstyled">
+<li><h2>Software</h2></li>
+<li><a href="/products/software/#W=1">Antivirus</a></li>
+<li><a href="/products/software/#W=8">Audio &amp; Video</a></li>
+ <li><a href="/products/software/#W=2">Backup</a></li>
+<li><a href="/products/software/#W=3">Design &amp; Illustration</a></li>
+<li><a href="/products/software/#W=5">Internet Security</a></li>
+<li><a href="/products/software/#W=7">Office &amp; Productivity</a></li>
+<li><a href="/products/os/">Operating Systems</a></li>
+<li><a href="/products/software/#W=6">Photography</a></li>
+</ul>
+<ul class="browseProducts__block--software list-unstyled">
+<li><h2>Other</h2></li>
+<li><a href="/products/laptop/">Laptops</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navCard navCard--account">
+<div class="navCard__header">
+<div class="navCard__wrapper">
+<a href="#" class="nav__back js-trigger--close"><svg class="icon shape-dropdown-arrow"><use xlink:href="#shape-dropdown-arrow" /></svg></a>
+<h6 class="navCard__title"><svg class="icon shape-user"><use xlink:href="#shape-user" /></svg><span>Account</span></h6>
+</div>
+</div>
+<div class="navCard__content">
+<div class="navCard__wrapper">
+<ul class="nav__account nav__account--mobile list-unstyled">
+<li class="nav__account--country">
+<select class="select select--small language-selector pp-country-select" name="cc">
+<option value="ar">Argentina</option>
+<option value="au">Australia</option>
+<option value="bh">Bahrain</option>
+<option value="be">Belgium</option>
+<option value="br">Brazil</option>
+<option value="ca">Canada</option>
+<option value="dk">Denmark</option>
+<option value="fi">Finland</option>
+<option value="fr">France</option>
+<option value="de">Germany</option>
+<option value="hk">Hong Kong</option>
+<option value="in">India</option>
+<option value="ie">Ireland</option>
+<option value="il">Israel</option>
+<option value="it">Italy</option>
+<option value="jp">Japan</option>
+<option value="kw">Kuwait</option>
+<option value="mx">Mexico</option>
+<option value="nl">Netherlands</option>
+<option value="nz">New Zealand</option>
+<option value="no">Norway</option>
+<option value="om">Oman</option>
+<option value="ph">Philippines</option>
+<option value="pl">Poland</option>
+<option value="pt">Portugal</option>
+<option value="qa">Qatar</option>
+
+<option value="ro">Romania</option>
+<option value="sa">Saudi Arabia</option>
+<option value="sg">Singapore</option>
+<option value="kr">South Korea</option>
+<option value="es">Spain</option>
+<option value="se">Sweden</option>
+<option value="th">Thailand</option>
+<option value="tr">Turkey</option>
+<option value="ae">United Arab Emirates</option>
+ <option value="uk">United Kingdom</option>
+<option value="us" selected="selected">United States</option>
+</select>
+<span class="flag-icon flag-us"></span>
+</li>
+<li class="nav__account--mode">
+<p class="modeSwitch__label">Light Mode</p>
+<div class="modeSwitch">
+<div class="modeSwitch__wrapper pp_toggle_theme">
+<div class="modeSwitch__toggle modeSwitch__toggle--light-mode"></div>
+</div>
+</div>
+</li>
+<li class="nav__account--login"><a href="/accounts/login/">Log In</a></li>
+<li class="nav__account--register"><a href="/accounts/register/" id="js-trigger--profileMobile">Register</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="navCard navCard--resources">
+<div class="navCard__header">
+<div class="navCard__wrapper">
+<a href="#" class="nav__back js-trigger--close"><svg class="icon shape-dropdown-arrow"><use xlink:href="#shape-dropdown-arrow" /></svg></a>
+<h6 class="navCard__title"><svg class="icon shape-menu"><use xlink:href="#shape-menu" /></svg><span>Resources</span></h6>
+</div>
+</div>
+<div class="navCard__content">
+<div class="navCard__wrapper">
+<ul class="list-unstyled">
+<li class="nav__categories--guides"><a href="/guide/" class="js-trigger-offCanvas--navigate"><svg class="nav__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 24"><g data-name="Layer 2"><path d="M12 0H0v24h18V6zm4 22H2v-2h3v-1H2v-2h5v-1H2v-2h3v-1H2v-2h5v-1H2V8h3V7H2V5h5V4H2V2h9v5h5z" data-name="Layer 1" /></g></svg>Build Guides</a></li>
+<li class="nav__categories--builds"><a href="/builds/" class="js-trigger-offCanvas--navigate"><svg class="nav__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24"><g data-name="Layer 2"><g data-name="Layer 1"><path d="M19.08 1l-12-1H7a.62.62 0 0 0-.19 0h-.14l-.09.1-.13.07-.13.09L.45 4.17A1 1 0 0 0 0 5v17a1 1 0 0 0 .84 1l6 1H19a1 1 0 0 0 1-1V2a1 1 0 0 0-.92-1zM6 21.82l-4-.67V5.54l4-2.67zM18 22H8V2.09l10 .83z" /><circle cx="13" cy="18" r="1" /><path d="M17 4.6L9 4v2l8 .6v-2zM17 7.6L9 7v2l8 .6v-2z" /></g></g></svg>Completed Builds</a></li>
+<li class="nav__categories--drops js-trigger-offCanvas--navigate"><a href="/products/pricedrop/">Price Drops</a></li>
+<li class="nav__categories--forums js-trigger-offCanvas--navigate"><a href="/forums/">Forums</a></li>
+<li class="nav__categories--trends js-trigger-offCanvas--navigate"><a href="/trends/">Price Trends</a></li>
+<li class="nav__categories--blog js-trigger-offCanvas--navigate"><a href="/blog/">Blog</a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<section class="main-wrapper xs-col-12">
+<div class="wrapper wrapper__pageTitle wrapper__pageTitle--rating">
+<section class="xs-col-11 lg-col-9 xl-col-8 xs-mx-auto">
+<section class="breadcrumb">
+<ol class="list-unstyled">
+<li><a href="/products/cpu/">CPU</a></li>
+<li>Product Detail</li>
+</ol>
+</section>
+<h1 class="pageTitle">Intel Core i7-9700K 3.6 GHz 8-Core Processor</h1>
+<ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-half"><use xlink:href="#shape-star-half"></use></svg></li></ul>
+(191 Ratings, 4.8 Average)
+</section>
+</div>
+<div class="wrapper wrapper__pageContent">
+<section class="main-content xs-col-11 lg-col-9 xl-col-8 xs-mx-auto">
+<div class="wrapper--columns clearfix">
+<div class="sidebar-content col xs-col-12 md-col-3 lg-col-3">
+<div id="single_image_gallery_box" class="product__image"><a href="#" data-image-index="0"><img src="//cdna.pcpartpicker.com/static/forever/images/product/3760e89d1820da393f084e2c18a62e3b.256p.jpg" /></a></div>
+<div class="block">
+<div class="actionBoxGroup actionBoxGroup--product">
+<div class="actionBox actionBox__addProduct">
+<form class="actionBox__formDropdown">
+<label for="option_1">QTY</label>
+<select class="select" name="quantity">
+<option value="1">1</option>
+</select>
+<a href="#" class="button button--primary button--small actionBox__actions--addToPartList pp_add_part_quantity" data-product-tag="WtyV3C">Add</a>
+</form>
+</div>
+<div class="actionBox actionBox__ratings">
+<h6>User Ratings</h6>
+<ul class="product--rating list-unstyled">
+<li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-half"><use xlink:href="#shape-star-half"></use></svg></li>
+<li>(191 Ratings, 4.8 Average)</li>
+</ul>
+<table>
+<tbody>
+<tr><td><a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k?rating=5" class="ratingStars">5 Star</a></td><td class="ratingBar"><div class="ratingBar__track"><div class="ratingBar__bar" style="width: 84%"></div></div></td><td><a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k?rating=5" class="ratingPercentage">84%</a></td></tr>
+<tr><td><a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k?rating=4" class="ratingStars">4 Star</a></td><td class="ratingBar"><div class="ratingBar__track"><div class="ratingBar__bar" style="width: 15%"></div></div></td><td><a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k?rating=4" class="ratingPercentage">15%</a></td></tr>
+<tr><td><a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k?rating=3" class="ratingStars">3 Star</a></td><td class="ratingBar"><div class="ratingBar__track"><div class="ratingBar__bar" style="width: 1%"></div></div></td><td><a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k?rating=3" class="ratingPercentage">1%</a></td></tr>
+<tr><td><a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k?rating=2" class="ratingStars">2 Star</a></td><td class="ratingBar"><div class="ratingBar__track"><div class="ratingBar__bar" style="width: 0%"></div></div></td><td><a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k?rating=2" class="ratingPercentage">0%</a></td></tr>
+<tr><td><a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k?rating=1" class="ratingStars">1 Star</a></td><td class="ratingBar"><div class="ratingBar__track"><div class="ratingBar__bar" style="width: 0%"></div></div></td><td><a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k?rating=1" class="ratingPercentage">0%</a></td></tr>
+</tbody>
+</table>
+</div>
+<div class="actionBox actionBox__actions--favorites"><a href="/accounts/login/">Log in to save to favorites</a></div>
+<div class="actionBox actionBox__actions--inventory"><a href="/accounts/login/">Log in to save to inventory</a></div>
+</div>
+</div>
+<div class="block">
+<div class="actionBoxGroup--productSeries">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Core Clock: 3.6 GHz</h2>
+</div>
+</div>
+</section>
+<ul>
+<li><a class="inactive" href="/product/DcCFf7">2 GHz</a></li>
+<li><a class="inactive" href="/product/L6vbt6">3 GHz</a></li>
+<li><a class="active" href="/product/WtyV3C">3.6 GHz</a></li>
+</ul>
+</div>
+<div class="actionBoxGroup--productSeries">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Boost Clock: 4.9 GHz</h2>
+</div>
+</div>
+</section>
+<ul>
+<li><a class="inactive" href="/product/DcCFf7">4.3 GHz</a></li>
+<li><a class="inactive" href="/product/L6vbt6">4.7 GHz</a></li>
+<li><a class="active" href="/product/WtyV3C">4.9 GHz</a></li>
+</ul>
+</div>
+<div class="actionBoxGroup--productSeries">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>TDP: 95 W</h2>
+</div>
+</div>
+</section>
+<ul>
+<li><a class="inactive" href="/product/DcCFf7">35 W</a></li>
+<li><a class="inactive" href="/product/L6vbt6">65 W</a></li>
+<li><a class="active" href="/product/WtyV3C">95 W</a></li>
+</ul>
+</div>
+<div class="actionBoxGroup--productSeries">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Integrated Graphics: Intel UHD Graphics 630</h2>
+</div>
+</div>
+</section>
+<ul>
+<li><a href="/product/LhCD4D">None</a></li>
+<li><a class="inactive" href="/product/L6vbt6">Intel HD Graphics 630</a></li>
+<li><a class="active" href="/product/WtyV3C">Intel UHD Graphics 630</a></li>
+</ul>
+</div>
+<div class="actionBoxGroup--productSeries">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Packaging: Boxed</h2>
+</div>
+</div>
+</section>
+<ul>
+<li><a class="active" href="/product/WtyV3C">Boxed</a></li>
+<li><a href="/product/6DVD4D">OEM/Tray</a></li>
+</ul>
+</div>
+</div>
+<div class="block xs-hide md-block specs">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Specifications</h2>
+</div>
+ </div>
+</section>
+<div class="group group--spec">
+<h3 class="group__title">Manufacturer</h3>
+<div class="group__content">
+<p>
+Intel
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Part #</h3>
+<div class="group__content">
+<p>BX80684I79700K</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Core Count</h3>
+<div class="group__content">
+<p>
+8
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Core Clock</h3>
+<div class="group__content">
+<p>
+3.6 GHz
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Boost Clock</h3>
+<div class="group__content">
+<p>
+4.9 GHz
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">TDP</h3>
+<div class="group__content">
+<p>
+95 W
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Series</h3>
+<div class="group__content">
+<p>Intel Core i7</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Microarchitecture</h3>
+<div class="group__content">
+<p>
+Coffee Lake Refresh
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Core Family</h3>
+<div class="group__content">
+<p>
+Coffee Lake Refresh
+ </p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Socket</h3>
+<div class="group__content">
+<p>
+LGA1151
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Integrated Graphics</h3>
+<div class="group__content">
+<p>
+Intel UHD Graphics 630
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Maximum Supported Memory</h3>
+<div class="group__content">
+<p>
+128 GB
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">ECC Support</h3>
+<div class="group__content">
+<p>
+No
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Packaging</h3>
+<div class="group__content">
+<p>Boxed</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Includes CPU Cooler</h3>
+<div class="group__content">
+<p>
+No
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">L1 Cache</h3>
+<div class="group__content">
+<ul>
+<li>8 x 32 kB Instruction</li>
+<li>8 x 32 kB Data</li>
+</ul>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">L2 Cache</h3>
+<div class="group__content">
+<p>
+8 x 256 kB
+ </p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">L3 Cache</h3>
+<div class="group__content">
+<p>
+8 x 1.5 MB
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Lithography</h3>
+<div class="group__content">
+<p>
+14 nm
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Simultaneous Multithreading</h3>
+<div class="group__content">
+<p>
+No
+</p>
+</div>
+</div>
+</div>
+<div class="block compatibleParts xs-hide md-block">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Compatible Parts</h2>
+</div>
+</div>
+</section>
+<ul class="compatibleParts__list list-unstyled">
+<li><a href="/products/cpu-cooler/?compatible_with=WtyV3C">View Compatible CPU Coolers</a></li>
+<li><a href="/products/motherboard/?compatible_with=WtyV3C">View Compatible Motherboards</a></li>
+<li><a href="/products/os/?compatible_with=WtyV3C">View Compatible Operating Systems</a></li>
+</ul>
+</div>
+</div>
+<div class="main-content col xs-col-12 md-col-9 lg-col-9">
+<div class="block" id="prices">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Prices</h2>
+</div>
+</div>
+</section>
+
+<table class="xs-col-12">
+<thead>
+<tr class="tr--noBorder">
+<th class="th__merchant">Merchant</th>
+<th class="th__base priority--2">Base</th>
+<th class="th__promo priority--2">Promo</th>
+<th class="th__shipping priority--2">Shipping</th>
+<th class="th__tax priority--2">Tax</th>
+<th class="th__availability">Availability</th>
+<th class="th__total">Total</th>
+<th class=""></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="td__logo">
+<a href="/mr/adorama/WtyV3C" target="_blank"><img src="//cdna.pcpartpicker.com/static/img/vendor-logos/logo2_merchant_adorama2.png" alt="Adorama"></a>
+</td>
+<td class="td__base priority--2">$274.99</td>
+<td class="td__promo priority--2 td--empty"></td>
+<td class="td__shipping priority--2">
++FREE s/h
+ </td>
+<td class="td__tax td--empty priority--2"></td>
+<td class="td__availability td__availability--outOfStock">
+Out of stock
+</td>
+<td class="td__finalPrice">
+<a href="/mr/adorama/WtyV3C" target="_blank">$274.99</a>
+</td>
+<td class="td__buy">
+<a href="/mr/adorama/WtyV3C" class="button button--small button--success" target="_blank">Buy</a>
+</td>
+</tr>
+<tr>
+<td class="td__logo">
+<a href="/mr/amazon/WtyV3C" target="_blank"><img src="//cdna.pcpartpicker.com/static/img/vendor-logos/logo2_merchant_amazon.png" alt="Amazon"></a>
+</td>
+<td class="td__base priority--2">$309.00</td>
+<td class="td__promo priority--2 td--empty"></td>
+<td class="td__shipping priority--2">
+</td>
+<td class="td__tax td--empty priority--2"></td>
+<td class="td__availability td__availability--inStock">
+In stock
+</td>
+<td class="td__finalPrice">
+<a href="/mr/amazon/WtyV3C" target="_blank">$309.00<span>+</span></a>
+</td>
+<td class="td__buy">
+<a href="/mr/amazon/WtyV3C" class="button button--small button--success" target="_blank">Buy</a>
+</td>
+</tr>
+<tr class="tr--noBorder">
+<td colspan="8" class="td__amazonNote">
+(
+<a href="https://www.amazon.com/dp/B07HHN6KBZ?tag=pcpapi-20&amp;linkCode=ogi&amp;th=1&amp;psc=1">
+77 new from $309.00, 2 used from $295.95
+</a>.
+Last updated 26 minutes ago.
+)
+</td>
+</tr>
+<tr>
+<td class="td__logo">
+<a href="/mr/bhphotovideo/WtyV3C" target="_blank"><img src="//cdna.pcpartpicker.com/static/img/vendor-logos/logo2_merchant_bhphotovideo.png" alt="B&amp;H"></a>
+</td>
+<td class="td__base priority--2">$319.90</td>
+<td class="td__promo priority--2 td--empty"></td>
+<td class="td__shipping priority--2">
++FREE s/h
+</td>
+<td class="td__tax td--empty priority--2"></td>
+<td class="td__availability td__availability--inStock">
+In stock
+</td>
+<td class="td__finalPrice">
+<a href="/mr/bhphotovideo/WtyV3C" target="_blank">$319.90</a>
+</td>
+<td class="td__buy">
+<a href="/mr/bhphotovideo/WtyV3C" class="button button--small button--success" target="_blank">Buy</a>
+</td>
+</tr>
+<tr>
+<td class="td__logo">
+<a href="/mr/newegg/WtyV3C" target="_blank"><img src="//cdna.pcpartpicker.com/static/img/vendor-logos/logo2_merchant_newegg.png" alt="Newegg"></a>
+</td>
+<td class="td__base priority--2">$319.99</td>
+<td class="td__promo priority--2 td--empty"></td>
+<td class="td__shipping priority--2">
++$2.99 s/h
+
+</td>
+<td class="td__tax td--empty priority--2"></td>
+<td class="td__availability td__availability--outOfStock">
+Out of stock
+</td>
+<td class="td__finalPrice">
+<a href="/mr/newegg/WtyV3C" target="_blank">$322.98</a>
+</td>
+<td class="td__buy">
+<a href="/mr/newegg/WtyV3C" class="button button--small button--success" target="_blank">Buy</a>
+</td>
+</tr>
+<tr>
+<td class="td__logo">
+<a href="/mr/bestbuy/WtyV3C" target="_blank"><img src="//cdna.pcpartpicker.com/static/img/vendor-logos/logo2_merchant_bestbuy2.png" alt="Best Buy"></a>
+</td>
+<td class="td__base priority--2">$349.99</td>
+<td class="td__promo priority--2 td--empty"></td>
+<td class="td__shipping priority--2">
++FREE s/h
+</td>
+<td class="td__tax td--empty priority--2"></td>
+<td class="td__availability td__availability--inStock">
+In stock
+</td>
+<td class="td__finalPrice">
+<a href="/mr/bestbuy/WtyV3C" target="_blank">$349.99</a>
+</td>
+<td class="td__buy">
+<a href="/mr/bestbuy/WtyV3C" class="button button--small button--success" target="_blank">Buy</a>
+</td>
+</tr>
+<tr>
+<td class="td__logo">
+<a href="/mr/memoryc/WtyV3C" target="_blank"><img src="//cdna.pcpartpicker.com/static/img/vendor-logos/logo2_merchant_memoryc.png" alt="MemoryC"></a>
+</td>
+<td class="td__base priority--2">$362.97</td>
+<td class="td__promo priority--2 td--empty"></td>
+<td class="td__shipping priority--2">
+</td>
+<td class="td__tax td--empty priority--2"></td>
+<td class="td__availability td__availability--outOfStock">
+Out of stock
+</td>
+<td class="td__finalPrice">
+<a href="/mr/memoryc/WtyV3C" target="_blank">$362.97<span>+</span></a>
+</td>
+<td class="td__buy">
+<a href="/mr/memoryc/WtyV3C" class="button button--small button--success" target="_blank">Buy</a>
+</td>
+</tr>
+</tbody>
+</div>
+</table>
+</div>
+<div class="block" id="disclosure">
+<p>* Product prices and availability are accurate as of the date/time indicated and are subject to change. Any price and availability information displayed on Amazon.com at the time of purchase will apply to the purchase of this product.</p>
+<p>* PCPartPicker may receive compensation for purchases made at participating retailers linked on this site. This compensation does not affect what products or prices are displayed, or the order of prices listed. Learn more <a href="/disclosure/">here</a>.</p>
+</div>
+<div class="block" id="pp-price-alert-emails">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Price Alert</h2>
+</div>
+</div>
+</section>
+<form action="/qapi/user/pricenotify/add/" method="post" class="pp_qapi_form">
+<input type="hidden" name="product_tag" value="WtyV3C">
+<p>Send an e-mail alert if the price drops to: $ <input id="price_alert_amount" type="text" name="amount" value="308.99"><input type="submit" value="Set" class="button button--small"></p>
+<p class="note">(Note: Price alerts use your <a href="/user_r/account/pricing/">merchant selections and tax settings</a>.)</p>
+</form>
+</div>
+<div class="block xs-block md-hide specs">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Specifications</h2>
+</div>
+</div>
+</section>
+<div class="group group--spec">
+<h3 class="group__title">Manufacturer</h3>
+<div class="group__content">
+<p>
+Intel
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Part #</h3>
+<div class="group__content">
+BX80684I79700K
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Core Count</h3>
+<div class="group__content">
+<p>
+8
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Core Clock</h3>
+<div class="group__content">
+<p>
+3.6 GHz
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Boost Clock</h3>
+<div class="group__content">
+<p>
+4.9 GHz
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">TDP</h3>
+<div class="group__content">
+<p>
+95 W
+</p>
+ </div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Series</h3>
+<div class="group__content">
+Intel Core i7
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Microarchitecture</h3>
+<div class="group__content">
+<p>
+Coffee Lake Refresh
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Core Family</h3>
+<div class="group__content">
+<p>
+Coffee Lake Refresh
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Socket</h3>
+<div class="group__content">
+<p>
+LGA1151
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Integrated Graphics</h3>
+<div class="group__content">
+<p>
+Intel UHD Graphics 630
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Maximum Supported Memory</h3>
+<div class="group__content">
+<p>
+128 GB
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">ECC Support</h3>
+<div class="group__content">
+<p>
+No
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Packaging</h3>
+<div class="group__content">
+Boxed
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Includes CPU Cooler</h3>
+<div class="group__content">
+<p>
+ No
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">L1 Cache</h3>
+<div class="group__content">
+<ul>
+<li>8 x 32 kB Instruction</li>
+<li>8 x 32 kB Data</li>
+</ul>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">L2 Cache</h3>
+<div class="group__content">
+<p>
+8 x 256 kB
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">L3 Cache</h3>
+<div class="group__content">
+<p>
+8 x 1.5 MB
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Lithography</h3>
+<div class="group__content">
+<p>
+14 nm
+</p>
+</div>
+</div>
+<div class="group group--spec">
+<h3 class="group__title">Simultaneous Multithreading</h3>
+<div class="group__content">
+<p>
+No
+</p>
+</div>
+</div>
+</div>
+<div class="block price-history">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header xs-col-12">
+<h2>Price History</h2>
+</div>
+<div class="subTitle__form">
+<form>
+<label class="form-label">History:</label>
+<select name="history_days" id="history_days">
+<option value="60">60 days</option>
+<option selected="selected" value="120">120 days</option>
+<option value="180">180 days</option>
+<option value="365">1 year</option>
+<option value="730">2 years</option>
+
+</select>
+</form>
+</div>
+</div>
+</section>
+<div id="price_history">
+<div class="pricing-table">
+<div style="position:relative;">
+<div>
+<div class="pricing-table-legend">
+<ul class="price-history-legend list-unstyled xs-block-grid-2 sm-block-grid-3 md-block-grid-4 lg-block-grid-6"></ul>
+</div>
+<div class="price-history-chart" style="height:300px;"></div>
+<div class="price-history-tooltip">
+<p class="price-history-tooltip-date"></p>
+<table><tbody></tbody></table>
+</div>
+</div>
+<div></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="block partReviews">
+<div class="subTitle subTitle--button">
+<div class="subTitle__header">
+<h2>Reviews</h2>
+</div>
+<div class="subTitle__form">
+<a href="/product/WtyV3C/reviews/intel-core-i7-9700k-36ghz-8-core-processor-bx80684i79700k" class="button button--small">See All Reviews</a>
+</div>
+</div>
+<div class="partReviews__review">
+<div class="userDetails">
+<a href="/user/NiiceNiina/" class="userAvatar userAvatar--entry"><img src="//cdna.pcpartpicker.com/static/forever/images/user/4270885.527406c60cc6c6c3d994511ad2099b8f.256c.jpg" /></a>
+<div class="userDetails__wrapper">
+<a href="/user/NiiceNiina/" class="userDetails__userName">NiiceNiina</a>
+<ul class="userDetails__userData list-unstyled">
+<li class="">8 points</li>
+<li class="">1 day ago</li>
+</ul>
+</div>
+</div>
+<div class="partReviews__name">
+<div><ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li></ul><p> from completed build <a href="/b/gDXv6h">PinksnowX</a></p></div>
+</div>
+<div class="partReviews__writeup markdown"><p>had this on bargain since the launched of 10th gen. Still top performance!</p></div>
+<ul class="ugcActions list-unstyled comment-data-row">
+<li></li>
+</ul>
+</div>
+<div class="partReviews__review">
+<div class="userDetails">
+<a href="/user/Mmburt/" class="userAvatar userAvatar--entry"><img src="/static/img/default-avatar.png" /></a>
+<div class="userDetails__wrapper">
+<a href="/user/Mmburt/" class="userDetails__userName">Mmburt</a>
+<ul class="userDetails__userData list-unstyled">
+<li class="">2 points</li>
+<li class="">14 days ago</li>
+</ul>
+</div>
+</div>
+<div class="partReviews__name">
+<div><ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-empty"><use xlink:href="#shape-star-full"></use></svg></li></ul><p> from completed build <a href="/b/WG6RsY">Decent upgrade </a></p></div>
+</div>
+<div class="partReviews__writeup markdown"><p>Decent upgrade from my i7 7700.</p></div>
+<ul class="ugcActions list-unstyled comment-data-row">
+<li></li>
+</ul>
+</div>
+<div class="partReviews__review">
+<div class="userDetails">
+<a href="/user/MysticMC4TW/" class="userAvatar userAvatar--entry"><img src="//cdna.pcpartpicker.com/static/forever/images/user/865488.0e27ba64ecaa8449b107ed02c86dd37a.256c.jpg" /></a>
+<div class="userDetails__wrapper">
+<a href="/user/MysticMC4TW/" class="userDetails__userName">MysticMC4TW</a>
+<ul class="userDetails__userData list-unstyled">
+<li class="">7 points</li>
+<li class="">20 days ago</li>
+</ul>
+</div>
+</div>
+<div class="partReviews__name">
+<div><ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-empty"><use xlink:href="#shape-star-full"></use></svg></li></ul><p> from completed build <a href="/b/qQx6Mp">Frostbite</a></p></div>
+</div>
+<div class="partReviews__writeup markdown"><p>Pretty good CPU, however I've noticed that it does cap at 90 usage easily. Not sure if it's a problem with the cpu being the bottleneck or my configuration, but for most games its perfect at achieving 1440p 144fps on high-ultra if not maximum settings. Cyberpunk likes to eat up 80% of the usage as well, but that's probably because its unoptimized</p></div>
+<ul class="ugcActions list-unstyled comment-data-row">
+<li></li>
+</ul>
+</div>
+<div class="partReviews__review">
+<div class="userDetails">
+<a href="/user/morux/" class="userAvatar userAvatar--entry"><img src="//cdn.pcpartpicker.com/static/forever/images/user/3811288.b1ba49735a28c53d5047edb1f50f3ca5.256c.jpg" /></a>
+<div class="userDetails__wrapper">
+<a href="/user/morux/" class="userDetails__userName">morux</a>
+<ul class="userDetails__userData list-unstyled">
+<li class="">6 points</li>
+<li class="">22 days ago</li>
+</ul>
+</div>
+</div>
+<div class="partReviews__name">
+<div><ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-empty"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-empty"><use xlink:href="#shape-star-full"></use></svg></li></ul><p> from completed build <a href="/b/xbx6Mp">Unicorn</a></p></div>
+</div>
+<div class="partReviews__writeup markdown"><p>Should've bought an i7-8700k, the CPU is always at over 100% usage while playing and streaming.</p></div>
+<ul class="ugcActions list-unstyled comment-data-row">
+<li></li>
+</ul>
+</div>
+<div class="partReviews__review">
+<div class="userDetails">
+<a href="/user/Purplefrog776/" class="userAvatar userAvatar--entry"><img src="/static/img/default-avatar.png" /></a>
+<div class="userDetails__wrapper">
+<a href="/user/Purplefrog776/" class="userDetails__userName">Purplefrog776</a>
+<ul class="userDetails__userData list-unstyled">
+<li class="">5 points</li>
+<li class="">25 days ago</li>
+</ul>
+</div>
+</div>
+<div class="partReviews__name">
+<div><ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-empty"><use xlink:href="#shape-star-full"></use></svg></li></ul><p> from completed build <a href="/b/wGwhP6">&quot;School&quot; Build</a></p></div>
+</div>
+<div class="partReviews__writeup markdown"><p>i7 9700k It is a amazing cpu for gaming, (I overclocked it to 4700ghz) my only complaint would be that it has 12 threads which is not exactly ideal for workstation tasks such as rendering UE4 models (I know that's mostly gpu bound but the extra threads help). Also I got this when it was $409 which sucks because a week later it dropped $130.</p></div>
+<ul class="ugcActions list-unstyled comment-data-row">
+<li></li>
+</ul>
+</div>
+<div class="partReviews__review">
+<div class="userDetails">
+<a href="/user/Tanner8031/" class="userAvatar userAvatar--entry"><img src="/static/img/default-avatar.png" /></a>
+<div class="userDetails__wrapper">
+<a href="/user/Tanner8031/" class="userDetails__userName">Tanner8031</a>
+<ul class="userDetails__userData list-unstyled">
+<li class="">3 points</li>
+<li class="">27 days ago</li>
+</ul>
+</div>
+</div>
+<div class="partReviews__name">
+<div><ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li></ul><p> from completed build <a href="/b/kYhgXL">Blueberries and Cream</a></p></div>
+</div>
+<div class="partReviews__writeup markdown"><p>For 259.99 this cpu is a beast</p></div>
+<ul class="ugcActions list-unstyled comment-data-row">
+<li></li>
+</ul>
+</div>
+<div class="partReviews__review">
+<div class="userDetails">
+<a href="/user/MrtyMcLargeFries/" class="userAvatar userAvatar--entry"><img src="/static/img/default-avatar.png" /></a>
+<div class="userDetails__wrapper">
+<a href="/user/MrtyMcLargeFries/" class="userDetails__userName">MrtyMcLargeFries</a>
+<ul class="userDetails__userData list-unstyled">
+<li class="">12 points</li>
+<li class="">1 month ago</li>
+</ul>
+</div>
+</div>
+<div class="partReviews__name">
+<div><ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li></ul><p> from completed build <a href="/b/39FG3C">First Build</a></p></div>
+</div>
+<div class="partReviews__writeup markdown"><p>For $199.99, What's not to love? Awesome CPU overall, and especially for the price.</p></div>
+<ul class="ugcActions list-unstyled comment-data-row">
+<li></li>
+</ul>
+</div>
+<div class="partReviews__review">
+<div class="userDetails">
+<a href="/user/cjennings163/" class="userAvatar userAvatar--entry"><img src="/static/img/default-avatar.png" /></a>
+<div class="userDetails__wrapper">
+<a href="/user/cjennings163/" class="userDetails__userName">cjennings163</a>
+<ul class="userDetails__userData list-unstyled">
+<li class="">3 points</li>
+<li class="">1 month ago</li>
+</ul>
+</div>
+</div>
+<div class="partReviews__name">
+<div><ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li></ul><p> from completed build <a href="/b/TZrV3C">First Build</a></p></div>
+</div>
+<div class="partReviews__writeup markdown"><p>I love this thing, handles any task I throw at it!</p></div>
+<ul class="ugcActions list-unstyled comment-data-row">
+<li></li>
+</ul>
+</div>
+<div class="partReviews__review">
+<div class="userDetails">
+<a href="/user/HonestlyYT/" class="userAvatar userAvatar--entry"><img src="//cdn.pcpartpicker.com/static/forever/images/user/2323801.90f4632b55e4cd0ad155cb4474926fb0.256c.jpg" /></a>
+<div class="userDetails__wrapper">
+<a href="/user/HonestlyYT/" class="userDetails__userName">HonestlyYT</a>
+<ul class="userDetails__userData list-unstyled">
+<li class="">6 points</li>
+<li class="">2 months ago</li>
+</ul>
+</div>
+</div>
+<div class="partReviews__name">
+<div><ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li></ul><p> from completed build <a href="/b/vKn7YJ">&quot;Lucky Day&quot; - (Late 2020 Intel Build)</a></p></div>
+</div>
+<div class="partReviews__writeup markdown"><p>This is a stupid good processor lol. Even at its stock speed, It's able to shred anything I throw at it, gaming, streaming, recording, literally anything. I love this thing!</p></div>
+<ul class="ugcActions list-unstyled comment-data-row">
+<li></li>
+</ul>
+</div>
+<div class="partReviews__review">
+<div class="userDetails">
+<a href="/user/ChestyFox/" class="userAvatar userAvatar--entry"><img src="//cdna.pcpartpicker.com/static/forever/images/user/3947488.6b806942d699cdae31dc29861066454f.256c.jpg" /></a>
+<div class="userDetails__wrapper">
+<a href="/user/ChestyFox/" class="userDetails__userName">ChestyFox</a>
+<ul class="userDetails__userData list-unstyled">
+<li class="">17 points</li>
+<li class="">2 months ago</li>
+</ul>
+</div>
+</div>
+<div class="partReviews__name">
+<div><ul class="product--rating list-unstyled"><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li><li><svg class="icon shape-star-full"><use xlink:href="#shape-star-full"></use></svg></li></ul><p> from completed build <a href="/b/6ZWbt6">First Build! - Funded (almost) entirely from saved up restaurant tips!</a></p></div>
+</div>
+<div class="partReviews__writeup markdown"><p>Can't really complain at all with this CPU. I haven't tried OCing yet, so I can't really say how it will fare there. But at stock level, it's been able to power through everything I've thrown at it with spades. Also, not a bad price where it currently sits in my personal opinion.</p></div>
+<ul class="ugcActions list-unstyled comment-data-row">
+<li></li>
+</ul>
+</div>
+</div>
+<div class="block compatibleParts xs-block md-hide">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Compatible Parts</h2>
+</div>
+</div>
+</section>
+<ul class="compatibleParts__list list-unstyled">
+<li><a href="/products/cpu-cooler/?compatible_with=WtyV3C">View Compatible CPU Coolers</a></li>
+<li><a href="/products/motherboard/?compatible_with=WtyV3C">View Compatible Motherboards</a></li>
+<li><a href="/products/os/?compatible_with=WtyV3C">View Compatible Operating Systems</a></li>
+</ul>
+</div>
+<div class="block product_builds">
+<div class="subTitle subTitle--button">
+<div class="subTitle__header">
+<h2>Builds Using This Part</h2>
+</div>
+<div class="subTitle__form">
+<a href="/builds/by_part/WtyV3C" class="button button--small">See All Builds</a>
+</div>
+</div>
+<ul id="userbuild_list" class="logGrid list-unstyled">
+<li class="logGroup logGroup__card">
+<a href="/b/7YZRsY" class="logGroup__target"></a>
+<div class="logGroup__content--wrapper1">
+<p class="log__author"><a href="/user/tacpiztols/" class="userAvatar"><img src="//cdn.pcpartpicker.com/static/forever/images/user/2283488.20061b2f745bcccae27b7f01e2639030.256c.jpg" /></a><a href="/user/tacpiztols/">tacpiztols</a></p>
+<a href="/b/7YZRsY" class="log__image" style="background-image: url(//cdna.pcpartpicker.com/static/forever/images/userbuild/252078.8176b26e1df2dabfde89b51450b36990.512.jpg)"></a>
+<h1 class="log__title"><a href="/b/7YZRsY">Tribute to the Captain and the Creator</a></h1>
+<ul class="log__keyProducts list-unstyled">
+<li class="build__specs">Intel Core i7-9700K</li>
+<li class="build__specs">GeForce GTX 1080</li>
+</ul>
+</div>
+<div class="logGroup__content--wrapper2">
+<div class="log__numbers">
+<p class="log__price">$2327.92+</p>
+<p class="log__links">
+<span class="log__link--followers">
+<svg class="icon shape-arrow-up"><use xlink:href="#shape-arrow-up"></use></svg>252
+</span>
+<span class="log__link--comments">
+<svg class="icon shape-comment"><use xlink:href="#shape-comment"></use></svg>90
+</span>
+</p>
+</div>
+</div>
+</li>
+<li class="logGroup logGroup__card">
+<a href="/b/gxpG3C" class="logGroup__target"></a>
+<div class="logGroup__content--wrapper1">
+<p class="log__author"><a href="/user/Spirafall/" class="userAvatar"><img src="//cdn.pcpartpicker.com/static/forever/images/user/60787.977eac3ee6502d3f690a7fbffe20e681.256c.jpg" /></a><a href="/user/Spirafall/">Spirafall</a></p>
+<a href="/b/gxpG3C" class="log__image" style="background-image: url(//cdna.pcpartpicker.com/static/forever/images/userbuild/268755.ec8f037dfd9fdbe54d0eb6fe88696349.512.jpg)"></a>
+<h1 class="log__title"><a href="/b/gxpG3C">Rowlet</a></h1>
+<ul class="log__keyProducts list-unstyled">
+<li class="build__specs">Intel Core i7-9700K (@4.8 GHz)</li>
+<li class="build__specs">GeForce GTX 960</li>
+</ul>
+</div>
+<div class="logGroup__content--wrapper2">
+<div class="log__numbers">
+<p class="log__price">$1167.04</p>
+<p class="log__links">
+<span class="log__link--followers">
+<svg class="icon shape-arrow-up"><use xlink:href="#shape-arrow-up"></use></svg>198
+</span>
+<span class="log__link--comments">
+<svg class="icon shape-comment"><use xlink:href="#shape-comment"></use></svg>64
+</span>
+</p>
+</div>
+</div>
+</li>
+<li class="logGroup logGroup__card">
+<a href="/b/6m27YJ" class="logGroup__target"></a>
+<div class="logGroup__content--wrapper1">
+<p class="log__author"><a href="/user/strawhatpcx/" class="userAvatar"><img src="/static/img/default-avatar.png" /></a><a href="/user/strawhatpcx/">strawhatpcx</a></p>
+<a href="/b/6m27YJ" class="log__image" style="background-image: url(//cdna.pcpartpicker.com/static/forever/images/userbuild/325831.1d82f4e7f4ee460cf5eb66c36bccb88c.512.jpg)"></a>
+<h1 class="log__title"><a href="/b/6m27YJ">Clean and Black with RTX 3080 FE</a></h1>
+<ul class="log__keyProducts list-unstyled">
+<li class="build__specs">Intel Core i7-9700K</li>
+<li class="build__specs">GeForce RTX 3080</li>
+</ul>
+</div>
+<div class="logGroup__content--wrapper2">
+<div class="log__numbers">
+<p class="log__price">$2445.85+</p>
+<p class="log__links">
+<span class="log__link--followers">
+<svg class="icon shape-arrow-up"><use xlink:href="#shape-arrow-up"></use></svg>170
+</span>
+<span class="log__link--comments">
+<svg class="icon shape-comment"><use xlink:href="#shape-comment"></use></svg>108
+</span>
+</p>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</div>
+</section>
+<div class="modal" id="default_dialog">
+<div class="modal__container xs-col-12 sm-col-9 md-col-7 lg-col-5 xs-mx-auto">
+<div class="modal__header">
+<h2></h2>
+<a class="modal__close js-hide-modal" href="javascript:">
+<svg class="icon shape-delete"><use xlink:href="#shape-delete" /></svg>
+</a>
+</div>
+<div class="modal__content">
+</div>
+<div class="modal__footer">
+<input id="default_dialog_ok" class="button button--small" type="submit" value="OK">
+<input id="default_dialog_cancel" class="button button--small button--secondary button--dark js-hide-modal" type="button" value="Cancel">
+</div>
+</div>
+</div>
+<footer class="clearfix">
+<nav class="xs-col-11 lg-col-9 xl-col-8 xs-mx-auto">
+<div class="clearfix">
+
+<div class="col xs-col-12 sm-col-3">
+<div class="footer__logo">
+<a href="/" class="footer__logo--img"><img src="/static/img/pcpp-icon.svg"></a>
+<h1>
+<ul>
+<li class="footer__headline-one">Pick Parts.</li>
+<li class="footer__headline-two">Build Your PC.</li>
+<li class="footer__headline-three">Compare And Share.</li>
+</ul>
+</h1>
+</div>
+</div>
+
+<div class="col xs-col-12 sm-col-3">
+<h2>Categories</h2>
+<ul class="footer__main-nav">
+<li><a href="/list/">System Builds</a></li>
+<li><a href="/guide/">Build Guides</a></li>
+<li><a href="/builds/">Completed Builds</a></li>
+<li><a href="/products/">Browse Products</a></li>
+</ul>
+</div>
+<div class="col xs-col-12 sm-col-3">
+<h2>Information</h2>
+<ul class="footer__secondary-nav">
+<li><a href="/blog/">Blog</a></li>
+<li><a href="/downloads/">Downloads</a></li>
+<li><a href="/forums/">Forums</a></li>
+<li><a href="/products/pricedrop/">Price Drops</a></li>
+<li><a href="/trends/">Price Trends</a></li>
+</ul>
+</div>
+<div class="col xs-col-12 sm-col-3">
+<h2>Company</h2>
+<ul class="footer__secondary-nav">
+<li><a href="/about/">About</a></li>
+<li><a href="/contact/">Contact & Imprint</a></li>
+<li><a href="/tos/">Terms of Service</a></li>
+<li><a href="/code-of-conduct/">User Code of Conduct</a></li>
+<li><a href="/code-of-conduct/industry-affiliate/">Industry Code of Conduct</a></li>
+<li><a href="/privacy/">Privacy Policy</a></li>
+<li><a href="/do-not-sell-my-personal-information/">Do Not Sell My Personal Information</a></li>
+<li><a href="/disclosure/">Affiliate Disclosure</a></li>
+</ul>
+</div>
+</div>
+<div class="clearfix">
+
+<div class="col xs-col-12">
+<ul class="footer__social">
+<li><a href="https://www.facebook.com/pcpartpicker/">
+<svg class="icon shape-facebook">
+<use xlink:href="#shape-facebook" />
+</svg></a>
+</li>
+<li><a href="https://www.instagram.com/pcpartpicker/">
+<svg class="icon shape-instagram">
+<use xlink:href="#shape-instagram" />
+</svg></a>
+</li>
+<li><a href="http://discord.gg/pcpartpicker">
+<svg class="icon shape-discord">
+<use xlink:href="#shape-discord" />
+</svg></a>
+</li>
+<li><a href="https://www.twitter.com/pcpartpicker/">
+<svg class="icon shape-twitter">
+<use xlink:href="#shape-twitter" />
+</svg></a>
+</li>
+<li><a href="https://www.twitch.tv/pcpartpicker">
+<svg class="icon shape-twitch">
+<use xlink:href="#shape-twitch" />
+</svg></a>
+</li>
+<li><a href="https://www.youtube.com/pcpartpicker/">
+<svg class="icon shape-search">
+<use xlink:href="#shape-youtube" />
+</svg></a>
+</li>
+</ul>
+</div>
+
+<div class="xs-col-12">
+<p class="footer__copyright">
+&copy;2021 PCPartPicker, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</nav>
+
+</footer>
+
+
+<div class="offCanvas offCanvas__sort">
+<header class="masthead">
+<nav id="navigation" role="navigation">
+<div class="navLogoOnly xs-py1 xs-px2 md-px0">
+<div class="nav__wrapper md-col-11 md-mx-auto">
+<a href="#" class="nav__back js-trigger-offCanvas--sort"><svg class="icon shape-dropdown-arrow"><use xlink:href="#shape-dropdown-arrow" /></svg></a>
+<h6 class="navCard__title"><span>Sort</span></h6>
+</div>
+</div>
+</nav>
+</header>
+
+<div class="offCanvas__content">
+<section class="xs-col-11 lg-col-9 xl-col-8 xs-mx-auto">
+<section class="module-subTitle">
+<div class="subTitle">
+<div class="subTitle__header">
+<h2>Sort</h2>
+</div>
+</div>
+</section>
+<ul class="list-unstyled" id="sort_options">
+</ul>
+</section>
+</div>
+</div>
+<div class="offCanvas offCanvas__gallery">
+<header class="gallery__header">
+<div class="gallery__title">
+<h3></h3>
+<h1></h1>
+</div>
+<div class="gallery__controls">
+<div class="gallery__imagecount">
+<p>0 <span></span> 0</p>
+</div><a href="#" class="gallery__controls--nav pp-gallery-left">
+<svg class="icon shape-arrow-left">
+<use xlink:href="#shape-arrow-left" />
+</svg>
+</a><a href="#" class="gallery__controls--nav pp-gallery-right">
+<svg class="icon shape-arrow-right">
+<use xlink:href="#shape-arrow-right" />
+</svg>
+</a><a href="#" class="js-trigger--gallery gallery__controls--close">
+<svg class="icon shape-delete">
+<use xlink:href="#shape-delete" />
+</svg>
+</a>
+</div>
+</header>
+<section class="gallery__stage">
+<div class="gallery__content">
+<img src="" />
+</div>
+</section>
+<section class="gallery__controls--mobile">
+<div class="gallery__controls">
+<a href="#" class="pp-gallery-left">
+<svg class="icon shape-arrow-left">
+<use xlink:href="#shape-arrow-left" />
+</svg>
+</a><div class="gallery__imagecount">
+<p>0 <span></span> 0</p>
+</div><a href="#" class="pp-gallery-right">
+<svg class="icon shape-arrow-right">
+<use xlink:href="#shape-arrow-right" />
+</svg>
+</a>
+</div>
+</section>
+</div>
+
 </body>
 </html>

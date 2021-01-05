@@ -104,7 +104,7 @@ def find_product_name(p_url):
 #Tuple List [part type, part name, date]
 
 
-list2 = [353,425,426,427,428,500,501,502,503,575,576,577,588,675,676,677,678,770,771,772,773,875,876,877,878,950,951,952,953,1000,1001,1002,1003]
+list2 = [1001,1002,1003]
 
 for i in list2:
         print(i)
@@ -134,13 +134,13 @@ for i in list2:
                         # find_p_page()
                         # time.sleep(5)
                         list(set(product_links))
-                        time.sleep(30)
+                        time.sleep(40)
                         date = find_p_page()
                         # time.sleep(5)
-                        time.sleep(30)
+                        time.sleep(40)
                         p_url = "https://pcpartpicker.com/" + product_links[0]
                         cpu_part = find_parts_page(p_url)
-                        time.sleep(30)
+                        time.sleep(40)
                         cpu_name = find_product_name(p_url)
 
                         type_name_date = [cpu_part, cpu_name,date]
