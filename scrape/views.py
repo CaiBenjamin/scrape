@@ -8,14 +8,13 @@ def view_part(request, part_name):
     print(part_name)
     quantity = defaultdict(int)
     data = pc_parts.objects.all()
-    total = 0
+    part_count = defaultdict(int)
     for d in data: 
+        total = 0
         model = d  
         d = d.pub_date
+        part_count[model.part_name]+=1
         if(model.part_name == part_name):
-            # print(total)
-                # print("Greater than 1")
-
             if(d.find('2021',0,len(d)) != - 1):
                 quantity[13] +=1
             else:
@@ -48,34 +47,35 @@ def view_part(request, part_name):
     # print(total)
 
     store = []
-    for i in range(1,14):
-        store.append(quantity[i])
-    
-    #find unique strings
-    unique_cpu_names = set()
-    for i in data:
-        if(i.greater_than):
-            unique_cpu_names.add(i.part_name)
+    if(part_count[part_name] > 2):
+        for i in range(1,14):
+            store.append(quantity[i])
+        
+        #find unique strings
+        unique_cpu_names = set()
+        for i in part_count.keys():
+            if(part_count[i] > 2):
+                unique_cpu_names.add(i)
 
-    unique_cpu_names = list(unique_cpu_names)
-    unique_cpu_names.sort()
+        unique_cpu_names = list(unique_cpu_names)
+        unique_cpu_names.sort()
 
-    with_underscore = []
+        with_underscore = []
 
-    for i in unique_cpu_names:
-        with_underscore.append(i.replace("_", " "))
+        for i in unique_cpu_names:
+            with_underscore.append(i.replace("_", " "))
 
-    tuple_list = []
-    for i in range(len(unique_cpu_names)):
-        tuple = (unique_cpu_names[i], with_underscore[i])
-        tuple_list.append(tuple)
+        tuple_list = []
+        for i in range(len(unique_cpu_names)):
+            tuple = (unique_cpu_names[i], with_underscore[i])
+            tuple_list.append(tuple)
 
-    ####
+        ####
 
-    return render(request, 'scrape/graph.html', {
-        'data': store,
-        'tuple_list': tuple_list,
-        'title' : part_name
+        return render(request, 'scrape/graph.html', {
+            'data': store,
+            'tuple_list': tuple_list,
+            'title' : part_name
     })
 
 

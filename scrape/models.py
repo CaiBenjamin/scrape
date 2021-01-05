@@ -6,7 +6,7 @@ class pc_parts(models.Model):
     part_type = models.CharField(max_length=200)
     part_name = models.CharField(max_length=200)
     pub_date = models.CharField(max_length=200)
-    greater_than = True
+    greater_than = False
 
     def __str__(self):
         return ("Unique Url: " + self.unique_url +"Part_Type: " +  self.part_type + "Part_Name: " + self.part_name + "Date: " + self.pub_date)
